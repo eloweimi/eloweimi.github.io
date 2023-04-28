@@ -1,0 +1,52 @@
+title: "Erfan Loweimi"
+author: "Erfan Loweimi"
+description: ""
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_social: true          # show site description and social links in the footer
+show_excerpts: false       # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_description: false    # show site description in the side bar
+show_sidebar: false        # show a sidebar instead of the usual header
+show_title: true
+
+# Styling
+
+dark_header: false
+minimal: false              # use a dark header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+ # - {title: "Home", file: "about.md"}  # Set "about" layout for Home link
+ # - {title: "Home", url: "/", icon: home}  # Update the URL to the homepage
+ # - {title: "About", file: "/about.md"}
+  - {title: "CV", url: "/files/CV.pdf"}
+  - {title: "Publications", file: "publications.md"}
+  - {title: "Talks", file: "talks.md"}
+  - {title: "Teaching/Tutorials", file: "tutorials.md"}
+  - {title: "Awards", file: "awards.md"}
+  - {title: "Roles", file: "roles.md"}
+
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:erfan.loweimi@gmail.com"}
+  - {title: Google Scholar, icon: google, url: "https://scholar.google.co.uk/citations?user=ke3k7XEAAAAJ&hl=en"}
+  - {title: Research Gate, icon: researchgate, url: "https://www.researchgate.net/profile/Erfan-Loweimi"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/erfan-loweimi-b5454759/?originalSubdomain=uk"}
+  - {title: Github, icon: github, url: "https://github.com/eloweimi"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/loweimi?lang=en"}
+  - {title: ORCiD, icon: orcid, url: "https://orcid.org/0000-0002-8761-021X"}
+
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed

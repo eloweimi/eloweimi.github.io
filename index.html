@@ -1,0 +1,10 @@
+---
+layout: default
+title: "About"
+---
+
+{% if site.show_excerpts %}
+  {% include about.md %}
+{% else %}
+  {% include archive.html %}
+{% endif %}
