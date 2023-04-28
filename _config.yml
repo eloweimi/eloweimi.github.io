@@ -17,7 +17,7 @@ show_title: true
 
 # Styling
 
-dark_header: false
+dark_header: true
 minimal: false              # use a dark header
 
 # Menu
