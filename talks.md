@@ -11,7 +11,7 @@ title: ""
  
  * ***Raw Sign and Magnitude Spectra for Multi-head Acoustic Modelling***, CSTR Talk, University of Edinburgh, 2020 &nbsp; [Slides](/files/Talks/2020_Raw_Sign_Mag_FINAL.pdf)
  
- * ***Understanding and Interpreting DNNs for Speech Recognition***, CSTR Talk, University of Edinburgh, 2019 &nbsp; [Slides](/files/Talks/CSTR_DNN_Understanding_FINAL.pdf)
+ * ***Understanding and Interpreting DNNs for Speech Recognition***, CSTR Talk, University of Edinburgh, 2019 &nbsp; [Slides](/files/Talks/CSTR_DNN_Understanding_ASR.pdf)
  
  * ***Speech Phase Spectrum: Love It or Leave It?***, CSTR Talk, University of Edinburgh, 2018 &nbsp; <!--[Slides](/files/Talks/2018_ELoweimi_CSTR_part1.pdf)-->
      
