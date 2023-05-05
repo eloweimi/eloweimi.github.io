@@ -13,7 +13,7 @@ Greetings! I am a Research Associate with the [Speech Group](https://mi.eng.cam.
 
 <br>
 
-\U0001F4A1 I am open to new opportunities and exploring exciting roles in my field of expertise. Please feel free to [contact me](mailto:erfan.loweimi@gmail.com) to discuss potential collaborations.
+&#x1F4A1; I am open to new opportunities and exploring exciting roles in my field of expertise. Please feel free to [contact me](mailto:erfan.loweimi@gmail.com) to discuss potential collaborations.
 
 <br>
 
