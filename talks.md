@@ -30,6 +30,6 @@ title: ""
 
 * ***Deep Learning, The End of History and The Last Computer Scientist***, A Pint of Science Festival, Sheffield, 2016
 
-* ***Ethics in Data Modelling; Love it or Leave it?***, Research Ethics and Integrity module, University of Sheffield, 2014
+* ***Ethics in Data Modelling; Love it or Leave it?***, Research Ethics and Integrity module, University of Sheffield, Sheffield, 2014
 
-* ***Why do a PhD?***, Department of Computer Science, University of Sheffield, 2014 &nbsp; [Slides](/files/Talks/WhyPhD.pdf)
+* ***Why do a PhD?***, Department of Computer Science, University of Sheffield, Sheffield, 2014 &nbsp; [Slides](/files/Talks/WhyPhD.pdf)
