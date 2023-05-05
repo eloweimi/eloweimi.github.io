@@ -24,7 +24,7 @@ title: ""
 <br>
 
 ## Other Talks ##
-* ***Genie in the mike! The Science of Talking (with) Machines***, A Pint of Science Festival, Sheffield, UK. 15, May, 2017 &nbsp; [Teaser](https://www.youtube.com/watch?v=Ta4xGpuFbGI&list=PL63P9-KNTDSwOtKRosM-oXJXUGTtweljS&index=7)
+* ***Genie in the mike! The Science of Talking (with) Machines***, A Pint of Science Festival, Sheffield, 2017 &nbsp; [Teaser](https://www.youtube.com/watch?v=Ta4xGpuFbGI&list=PL63P9-KNTDSwOtKRosM-oXJXUGTtweljS&index=7)
  
 * ***Signal Processing is Dead(?)! Long Live DNN!***, Machine Intelligence for Natural Interfaces (MINI) workshop, Sheffield, 2016
 
