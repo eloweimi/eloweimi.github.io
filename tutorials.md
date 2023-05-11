@@ -13,7 +13,7 @@ I am passionate about expanding my knowledge through continuous learning, and di
   * Transformers (vs RNN Encoder-Decoders + Attention) &nbsp; [Slides](/files/Tutorials/Transformers_ErfanLoweimi.pdf)
   * Dual-Mode ASR (Unifying streaming with full-context modelling) &nbsp; [Slides](/files/Tutorials/DualMode_ASR_ErfanLoweimi.pdf)
   * WER wer are and WER we think we are? Rethinking evaluation in ASR + History of ASR to the year 2030 &nbsp; [Slides](/files/Tutorials/WER_all_ErfanLoweimi.pdf)
-  * Overparameterisation in DNNs &nbsp; [Part1](/files/Tutorials/OverParam1.pdf) &nbsp; &nbsp; [Part2](/files/Tutorials/OverParam2.pdf)
+  * Overparameterisation in DNNs &nbsp; &nbsp; [Part1](/files/Tutorials/OverParam1.pdf) &nbsp; &nbsp; [Part2](/files/Tutorials/OverParam2.pdf)
   * Raw Waveform Acoustic Modelling &nbsp; &nbsp; [Part1](/files/Tutorials/Raw_Part_I.pdf) &nbsp; &nbsp; [Part2](/files/Tutorials/Raw_Part_II.pdf) &nbsp; &nbsp; [Part3](/files/Tutorials/Raw_Part_III.pdf) &nbsp; &nbsp; [Part4](/files/Tutorials/Raw_Part_IV.pdf)
   * Capsule Neural Networks &nbsp; [Slides](/files/Tutorials/CapsuleNet_ErfanLoweimi.pdf)
   * Information Bottleneck &nbsp; [Slides](/files/Tutorials/InformationBottleneck_ErfanLoweimi.pdf)
