@@ -6,7 +6,7 @@ title: ""
 I am passionate about expanding my knowledge through continuous learning, and distilling complex concepts into clear and straightforward explanations. These tutorials represent some steps taken towards fulfilling this passion, with the hope of making learning accessible and enjoyable for others. I hope you find them helpful and informative!
 
 #### Conferences ####
-  * E. Loweimi and S. Loveymi, *Recent Advances in Interpreting and Understanding DNNs*, Iranian Conference on Machine Vision and Image Processing ([MVIP](https://mvip2022.ismvipconf.ir/)), Iran, 2022 &nbsp; [Slides](/files/Tutorials/MVIP2022_W5_RecentAdvances.pdf) &nbsp; [BibTeX](/files/Tutorials/mvip2022.bib) 
+  * E. Loweimi and S. Loveymi, *Recent Advances in Interpreting and Understanding DNNs*, Iranian Conference on Machine Vision and Image Processing (MVIP), Iran, 2022 &nbsp; [Slides](/files/Tutorials/MVIP2022_W5_RecentAdvances.pdf) &nbsp; [BibTeX](/files/Tutorials/mvip2022.bib) 
 
 #### Internal Tutorials in CSTR, University of Edinburgh (2018-2022) ####
   * Contrastive Learning &nbsp; [Slides](/files/Tutorials/ContrastiveLearning_ErfanLoweimi.pdf)
