@@ -5,7 +5,7 @@ title: ""
 
 
 ## Research Talks ##
-  * ***Speech Acoustic Modelling from Raw Signal Representations***, Edinburgh Napier University, 2022 &nbsp; [Slides](/files/Talks/2022_ENU_Talk.pdf)
+  * ***Speech Acoustic Modelling from Raw Signal Representations***, Edinburgh Napier University, 2022 &nbsp; [Slides](/files/Talks/ENU_RawAM_ELoweimi.pdf)
   
  * ***On the Robustness and Training Dynamics of Raw Waveform Models***, CSTR Talk, University of Edinburgh, 2021 &nbsp; [Slides](/files/Talks/2020_Dynamics_Robustness.pdf)
  
