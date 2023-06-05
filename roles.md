@@ -15,10 +15,10 @@ title: ""
 
 
 * #### Reviewer 
-   - Journals: Speech Communication, IEEE-TASLP
-   - Conferences: INTERSPEECH, ICASSP, ASRU, SLT, ...
-
-
+   - Journals: IEEE-TASLP, Speech Communication
+   - Conferences: INTERSPEECH, ICASSP, ASRU, SLT
+ 
+ 
 * #### Scientific Committee Member 
   * Advances in Multi-modal Hearing Assistive Technologies ([AMHAT](https://cogmhear.org/amhat2023/)), 2023
   * Machine Vision and Image Processing ([MVIP](https://mvip2022.ismvipconf.ir/Sci.php)), 2022
