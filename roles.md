@@ -5,10 +5,12 @@ title: ""
 
 <br>
 
-* #### Meta Reviewer (Area Chair) 
+* #### Area Chair
    - INTERSPEECH 2023 (Speech Recognition) 
-   - ICASSP 2023 (Speech Analysis)
 
+
+* #### Meta Reviewer 
+   - ICASSP 2023 (Speech Analysis)
 
 
 * #### Reviewer 
@@ -16,12 +18,10 @@ title: ""
    - Conferences: INTERSPEECH, ICASSP, ASRU, SLT, ...
 
 
-
 * #### Organisation Committee Member  
    - Publication Chair, Spoken Language Technology Workshop (SLT), Doha, Qatar, 2022
    - UKSpeech 2016 Co-organiser, Sheffield, UK, 2016
    - Project Facilitator, Transforming Society Summer School, Sheffield, UK, 2015
-
 
 
 * #### Session Chair  
@@ -36,10 +36,8 @@ title: ""
    - Primary supervisor of four MSc students, University of Edinburgh, 2019-2021
 
 
-
 * #### Examiner  
    - More than 15 MSc dissertations, University of Edinburgh, 2019-2021
-
 
 
 * #### Scientific Committee Member  
