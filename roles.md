@@ -15,7 +15,7 @@ title: ""
 
 
 * #### Reviewer 
-   - Journals: IEEE-TASLP, Speech Communication
+   - Journals: IEEE TASLP, Speech Communication
    - Conferences: INTERSPEECH, ICASSP, ASRU, SLT
  
  
