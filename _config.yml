@@ -37,10 +37,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:Erfan Loweimi <erfan.loweimi@gmail.com>"}
-  <a href="https://scholar.google.com/citations/your-page" target="_blank">
-    <img src="https://scholar.google.com/favicon.ico" alt="Google Scholar" width="16" height="16">
-</a>
-  - {title: Google Scholar, icon: google, url: "https://scholar.google.co.uk/citations?user=ke3k7XEAAAAJ&hl=en"}
+  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.co.uk/citations?user=ke3k7XEAAAAJ&hl=en"}
   - {title: Research Gate, icon: researchgate, url: "https://www.researchgate.net/profile/Erfan-Loweimi"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/erfan-loweimi-b5454759/?originalSubdomain=uk"}
   - {title: Github, icon: github, url: "https://github.com/eloweimi"}
