@@ -7,13 +7,13 @@ title: ""
 ## Research Talks ##
   * ***Speech Acoustic Modelling from Raw Signal Representations***, Edinburgh Napier University, 2022 &nbsp; [Slides](/files/Talks/ENU_RawAM_ELoweimi.pdf)
   
- * ***On the Robustness and Training Dynamics of Raw Waveform Models***, CSTR Talk, University of Edinburgh, 2021 &nbsp; [Slides](/files/Talks/2020_Dynamics_Robustness.pdf)
+ * ***On the Robustness and Training Dynamics of Raw Waveform Models***, University of Edinburgh, 2021 &nbsp; [Slides](/files/Talks/2020_Dynamics_Robustness.pdf)
  
- * ***Raw Sign and Magnitude Spectra for Multi-head Acoustic Modelling***, CSTR Talk, University of Edinburgh, 2020 &nbsp; [Slides](/files/Talks/2020_Raw_Sign_Mag_FINAL.pdf)
+ * ***Raw Sign and Magnitude Spectra for Multi-head Acoustic Modelling***, University of Edinburgh, 2020 &nbsp; [Slides](/files/Talks/2020_Raw_Sign_Mag_FINAL.pdf)
  
- * ***Understanding and Interpreting DNNs for Speech Recognition***, CSTR Talk, University of Edinburgh, 2019 &nbsp; [Slides](/files/Talks/CSTR_DNN_Understanding_ASR.pdf)
+ * ***Understanding and Interpreting DNNs for Speech Recognition***, University of Edinburgh, 2019 &nbsp; [Slides](/files/Talks/CSTR_DNN_Understanding_ASR.pdf)
  
- * ***Speech Phase Spectrum: Love It or Leave It?***, CSTR Talk, University of Edinburgh, 2018 &nbsp; <!--[Slides](/files/Talks/2018_ELoweimi_CSTR_part1.pdf)-->
+ * ***Speech Phase Spectrum: Love It or Leave It?***, University of Edinburgh, 2018 &nbsp; <!--[Slides](/files/Talks/2018_ELoweimi_CSTR_part1.pdf)-->
      
   * ***DNN Statistical Interpretation and Normalisation for ASR***, Qatar Computing Research Institute (QCRI), 2019 &nbsp; [Slides](/files/Talks/2019_QCRI.pdf) &nbsp;  [Video](https://www.youtube.com/watch?v=MomZa3lmpmM)
   
