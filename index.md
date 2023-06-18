@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 ---
-<div style="margin-top: -25px;">
+<div style="margin-top: -15px;">
 <img src="/files/Thumbnail.png" alt="UKSpeech2017" style="width: 26.7%; margin-left: 35px; float: right;">
 </div>
 
