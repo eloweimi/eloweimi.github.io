@@ -9,15 +9,18 @@ title: ""
 * #### Associate Member of IEEE's Speech and Language Processing Technical Committee (SLTC), 2023 
 * #### Meta Reviewer (Speech Analysis), ICASSP 2023 
 * #### Publication Chair, Spoken Language Technology Workshop (SLT) 2022
-* #### Session Chair, Spoken Language Technology Workshop (SLT) 2022
-* #### Session Chair (Language Disorder Detection), ICASSP 2022
-* #### Session Chair (ASR for Noisy and Far-Field Speech), INTERSPEECH 2019
+
+
+* #### Session Chair
+   - Spoken Language Technology Workshop (SLT) 2022
+   - ICASSP 2022, Session: Language Disorder Detection
+   - INTERSPEECH 2019, Session: ASR for Noisy and Far-Field Speech
 
 
 * #### Reviewer 
    - Journals: IEEE TASLP, Speech Communication
    - Conferences: INTERSPEECH, ICASSP, ASRU, SLT
- 
+     
  
 * #### Supervisor 
    - Co-supervising one PhD student, University of Edinburgh, 2018-2021
