@@ -63,7 +63,7 @@ Models](https://www.isca-speech.org/archive/interspeech_2021/zhang21p_interspeec
 
 21. **E. Loweimi**, J. Barker, and T. Hain, “[Channel Compensation in the Generalised Vector Taylor Series Approach to Robust ASR](https://www.isca-speech.org/archive/interspeech_2017/loweimi17b_interspeech.html)”, INTERSPEECH, 2017.
 
-22. **E. Loweimi**, J. Barker, O. Saz Torralba, and T. Hain, “[Robust Source-Filter Separation in the Phase Domain](https://www.isca-speech.org/archive/interspeech_2017/loweimi17_interspeech.html)”, INTERSPEECH, 2017.
+22. **E. Loweimi**, J. Barker, O. Saz Torralba, and T. Hain, “[Robust Source-Filter Separation of Speech Signal in the Phase Domain](https://www.isca-speech.org/archive/interspeech_2017/loweimi17_interspeech.html)”, INTERSPEECH, 2017.
 
 23. **E. Loweimi**, J. Barker, and T. Hain, “[Statistical Normalisation of Phase-based Feature Representation for Robust Speech Recognition](https://ieeexplore.ieee.org/document/7953170)”, ICASSP, 2017.
 
