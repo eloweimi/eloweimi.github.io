@@ -1,0 +1,21 @@
+@unpublished{eloweimi-phd,
+           month = {February},
+           title = {Robust Phase-based Speech Signal Processing 
+From Source-Filter Separation to Model-Based Robust ASR},
+          school = {University of Sheffield},
+          author = {Erfan Loweimi},
+       publisher = {University of Sheffield},
+            year = {2018},
+        keywords = {Phase spectrum, group delay, source-filter separation, Hilbert transform, robust ASR, statistical normalisation, generalised vector Taylor series, channel estimation},
+             url = {https://etheses.whiterose.ac.uk/19409/},
+        abstract = {The Fourier analysis plays a key role in speech signal processing. As a complex quantity, it can be expressed in the polar form using the magnitude and phase spectra. The magnitude spectrum is widely used in almost every corner of speech processing. However, the phase spectrum is not an obviously appealing start point for processing the speech signal. In contrast to the magnitude spectrum whose fine and coarse structures have a clear relation to speech
+perception, the phase spectrum is difficult to interpret and manipulate. In fact, there is not a meaningful trend or extrema which may facilitate the modelling process. Nonetheless, the speech phase spectrum has recently gained renewed attention. An expanding body of work is showing that it can be usefully employed in a multitude of speech processing applications.
+Now that the potential for the phase-based speech processing has been established, there is a
+need for a fundamental model to help understand the way in which phase encodes speech information. In this thesis a novel phase-domain source-filter model is proposed that allows for deconvolution of the speech vocal tract (filter) and excitation (source) components through phase processing. This model utilises the Hilbert transform, shows how the excitation and vocal tract elements mix in the phase domain and provides a framework for efficiently
+segregating the source and filter components through phase manipulation. To investigate the efficacy of the suggested approach, a set of features is extracted from the phase filter part for automatic speech recognition (ASR) and the source part of the phase is utilised for fundamental frequency estimation. Accuracy and robustness in both cases are illustrated and discussed. In addition, the proposed approach is improved by replacing the log with the generalised logarithmic function in the Hilbert transform and also by computing the group delay via regression filter.
+Furthermore, statistical distribution of the phase spectrum and its representations along the feature extraction pipeline are studied. It is illustrated that the phase spectrum has a bell-shaped distribution. Some statistical normalisation methods such as mean-variance normalisation, Laplacianisation, Gaussianisation and Histogram equalisation are successfully applied to the phase-based features and lead to a significant robustness improvement.
+The robustness gain achieved through using statistical normalisation and generalised logarithmic function encouraged the use of more advanced model-based statistical techniques such as vector Taylor Series (VTS). VTS in its original formulation assumes usage of the log function for compression. In order to simultaneously take advantage of the VTS and generalised logarithmic function, a new formulation is first developed to merge both into
+a unified framework called generalised VTS (gVTS). Also in order to leverage the gVTS framework, a novel channel noise estimation method is developed. The extensions of the
+gVTS framework and the proposed channel estimation to the group delay domain are then explored. The problems it presents are analysed and discussed, some solutions are proposed and finally the corresponding formulae are derived. Moreover, the effect of additive noise and
+channel distortion in the phase and group delay domains are scrutinised and the results are utilised in deriving the gVTS equations. Experimental results in the Aurora-4 ASR task in an HMM/GMM set up along with a DNN-based bottleneck system in the clean and multi-style training modes confirmed the efficacy of the proposed approach in dealing with both additive and channel noise.}
+}
