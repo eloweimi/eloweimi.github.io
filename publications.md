@@ -3,6 +3,10 @@ layout: page
 title: ""
 ---
 
+## PhD Thesis ##
+E. Loweimi, "Robust Phase-based Speech Signal Processing From Source-Filter Separation to Model-Based Robust ASR," Ph.D. thesis, University of Sheffield, Feb. 2018. [Online]. Available: [https://etheses.whiterose.ac.uk/19409/](https://etheses.whiterose.ac.uk/19409/) &nbsp; &nbsp; [BibTeX](/files/others/phd-thesis.bib) 
+
+
 ## Journals ##
 
 1. **E. Loweimi**, Z. Yue, P. Bell, S. Renals, and Z. Cvetkovic, “[Multi-stream Acoustic
@@ -90,6 +94,3 @@ Notes in Computer Science, vol. 7911 LNAI, 2013.
 
 33. **E. Loweimi** and S.M. Ahadi, “[Objective Evaluation of Magnitude and Phase only Spectrum-based Reconstruction of the Speech Signal](https://ieeexplore.ieee.org/document/5463311)”, ISCCSP, 2010.
 
-
-## PhD Thesis ##
-E. Loweimi, "Robust Phase-based Speech Signal Processing From Source-Filter Separation to Model-Based Robust ASR," Ph.D. thesis, University of Sheffield, Feb. 2018. [Online]. Available: [https://etheses.whiterose.ac.uk/19409/](https://etheses.whiterose.ac.uk/19409/) &nbsp; &nbsp; [BibTeX](/files/others/phd-thesis.bib) 
