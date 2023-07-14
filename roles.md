@@ -36,4 +36,3 @@ title: ""
    - Examiner of more than 15 MSc dissertations, University of Edinburgh, 2019-2021
    - Organisation Committee Member UKSpeech 2016 Co-organiser, Sheffield, UK, 2016
    - Project Facilitator, Transforming Society Summer School, Sheffield, UK, 2015
-
