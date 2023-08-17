@@ -16,7 +16,7 @@ Greetings! I am a Research Associate with the [Speech Research Group](https://mi
 &#x1F4A1; I am open to new opportunities and exploring exciting roles in my field of expertise. Please feel free to [contact me](mailto:erfan.loweimi@gmail.com) to discuss potential collaborations.
 
 <br>
-
+<br>
 ### Education ###
 I completed my PhD in 2018 at the Speech and Hearing Research Group ([SPandH](https://www.sheffield.ac.uk/dcs/research/groups/spandh)), <u>University of Sheffield</u>, under the joint supervision of Professor [Jon Barker](http://staffwww.dcs.shef.ac.uk/people/J.Barker/) and Professor [Thomas Hain](https://staffwww.dcs.shef.ac.uk/people/T.Hain/). You can access my PhD thesis by clicking [here](https://etheses.whiterose.ac.uk/19409/).
 
