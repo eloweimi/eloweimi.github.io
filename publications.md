@@ -9,8 +9,7 @@ title: ""
 
 ## Journals ##
 
-<!--
-1. **E. Loweimi**, A. Carmantini, P. Bell, S. Renals, and Z. Cvetkovic, “[Phonetic Error Analysis Beyond Phone Error Rate]()”, in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 876-890, 2023, doi: 10.1109/TASLP.2023.3237167.
+<!-- 1. **E. Loweimi**, A. Carmantini, P. Bell, S. Renals, and Z. Cvetkovic, “[Phonetic Error Analysis Beyond Phone Error Rate]()”, in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 876-890, 2023, doi: 10.1109/TASLP.2023.3237167.
 -->
 
 1. **E. Loweimi**, Z. Yue, P. Bell, S. Renals, and Z. Cvetkovic, “[Multi-stream Acoustic
