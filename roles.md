@@ -7,8 +7,8 @@ title: ""
 
 * #### Area Chair (Speech and Multimodality), EMNLP 2023
 * #### Area Chair (Speech Recognition), INTERSPEECH 2023
-* #### Associate Member of IEEE Speech and Language Processing Technical Committee (SLTC), 2023 
-* #### Meta Reviewer (Speech Analysis), ICASSP 2023 
+* #### Meta Reviewer (Speech Analysis), ICASSP 2023
+* #### Associate Member of IEEE Speech and Language Processing Technical Committee (SLTC), 2023
 * #### Publication Chair, IEEE Spoken Language Technology Workshop (SLT) 2022
 
 <!--
