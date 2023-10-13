@@ -36,5 +36,5 @@ title: ""
    - Scientific Committee Member of Applied Research in Electrical Engineering, 2022
    - Examiner of more than 15 MSc dissertations, University of Edinburgh, 2019-2021
    - Speech and Hearing ([SPandH](https://spandh.dcs.shef.ac.uk/seminars/)) Seminars Co-organiser, 2015-2018
-   - Organisation Committee Member, [UKSpeech 2016](http://ukspeech.dcs.shef.ac.uk), Sheffield, UK, 2016
+   - Organisation Committee Member, [UKSpeech](http://ukspeech.dcs.shef.ac.uk), Sheffield, UK, 2016
    - Project Facilitator, Transforming Society Summer School, Sheffield, UK, 2015
