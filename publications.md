@@ -12,12 +12,12 @@ title: ""
 1. **E. Loweimi**, A. Carmantini, P. Bell, S. Renals and Z. Cvetkovic, "[Phonetic Error Analysis Beyond Phone Error Rate](https://ieeexplore.ieee.org/abstract/document/10244118)", in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 3346-3361, 2023, doi: 10.1109/TASLP.2023.3313417. &nbsp; [Preprint](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/229243895/LEA_PrePrint.pdf)
 
 2. **E. Loweimi**, Z. Yue, P. Bell, S. Renals, and Z. Cvetkovic, “[Multi-stream Acoustic
-Modelling using Raw Real and Imaginary Parts of the Fourier Transform](https://ieeexplore.ieee.org/abstract/document/10026604)”, in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 876-890, 2023, doi: 10.1109/TASLP.2023.3237167.
+Modelling using Raw Real and Imaginary Parts of the Fourier Transform](https://ieeexplore.ieee.org/abstract/document/10026604)”, in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 876-890, 2023, doi: 10.1109/TASLP.2023.3237167. &nbsp; [Preprint](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/193442046/Real_Imag_Journal_FINAL.pdf)
 
 3. Z. Yue **<sup>&#8224;</sup>, E. Loweimi <sup>&#8224;</sup>**, J. Barker, H. Christensen, and Z. Cvetkovic, “[Acoustic
 Modelling from Raw Source and Filter Components for Dysarthric Speech Recognition](https://ieeexplore.ieee.org/document/9900378)”,
 in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 30, pp. 2968-2980, 2022, doi: 10.1109/TASLP.2022.3205766.
-(**<sup>&#8224;</sup>** Equal contribution).
+(**<sup>&#8224;</sup>** Equal contribution). &nbsp; [Preprint](https://eprints.whiterose.ac.uk/192463/6/Journal_zhengjun_Erfan__source_filter_%20%289%29.pdf)
 
 <br>
 
