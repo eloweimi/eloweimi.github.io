@@ -16,8 +16,7 @@ Modelling using Raw Real and Imaginary Parts of the Fourier Transform](https://i
 
 3. Z. Yue **<sup>&#8224;</sup>, E. Loweimi <sup>&#8224;</sup>**, J. Barker, H. Christensen, and Z. Cvetkovic, “[Acoustic
 Modelling from Raw Source and Filter Components for Dysarthric Speech Recognition](https://ieeexplore.ieee.org/document/9900378)”,
-in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 30, pp. 2968-2980, 2022, doi: 10.1109/TASLP.2022.3205766.
-(**<sup>&#8224;</sup>** Equal contribution). &nbsp; [Preprint](https://eprints.whiterose.ac.uk/192463/6/Journal_zhengjun_Erfan__source_filter_%20%289%29.pdf)
+in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 30, pp. 2968-2980, 2022, doi: 10.1109/TASLP.2022.3205766 (**<sup>&#8224;</sup>** Equal contribution). &nbsp; [Preprint](https://eprints.whiterose.ac.uk/192463/6/Journal_zhengjun_Erfan__source_filter_%20%289%29.pdf)
 
 <br>
 
