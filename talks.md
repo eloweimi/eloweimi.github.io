@@ -5,6 +5,9 @@ title: ""
 
 
 ## Research Talks ##
+
+  <!-- * ***Phonetic Error Analysis beyond Phone Error Rate***, University of Edinburgh, 2023 &nbsp; [Slides](/files/Talks/2023_UoE_LEA.pdf) -->
+
   * ***Speech Acoustic Modelling from Raw Signal Representations***, Edinburgh Napier University, 2022 &nbsp; [Slides](/files/Talks/ENU_RawAM_ELoweimi.pdf)
   
  * ***On the Robustness and Training Dynamics of Raw Waveform Models***, University of Edinburgh, 2021 &nbsp; [Slides](/files/Talks/2020_Dynamics_Robustness.pdf)
