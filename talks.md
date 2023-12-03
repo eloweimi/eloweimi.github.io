@@ -20,7 +20,7 @@ title: ""
      
   * ***DNN Statistical Interpretation and Normalisation for ASR***, Qatar Computing Research Institute (QCRI), 2019 &nbsp; [Slides](/files/Talks/2019_QCRI.pdf) &nbsp;  [Video](https://www.youtube.com/watch?v=MomZa3lmpmM)
   
-  * ***Channel Compensation in the Generalised VTS Approach to Robust ASR***, INTERSPEECH and UKSpeech, 2017 &nbsp; [Slides](/files/Talks/2017_UKSpeech.pdf) &nbsp; [Video](https://www.youtube.com/watch?v=iUdGdhvxX7s)
+  * ***Channel Compensation in the Generalised VTS Approach to Robust ASR***, UKSpeech, 2017 &nbsp; [Slides](/files/Talks/2017_UKSpeech.pdf) &nbsp; [Video](https://www.youtube.com/watch?v=iUdGdhvxX7s)
   
   * ***Source-filter Separation of Speech Signal in the Phase Domain***, UKSpeech, 2015 &nbsp; [Slides](/files/Talks/2015_UKSpeech.pdf)
 
