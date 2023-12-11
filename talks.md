@@ -6,7 +6,7 @@ title: ""
 
 ## Research Talks ##
 
-  <!-- * ***Phonetic Error Analysis beyond Phone Error Rate***, University of Edinburgh, 2023 &nbsp; [Slides](/files/Talks/2023_UoE_LEA.pdf) -->
+  * ***Phonetic Error Analysis beyond Phone Error Rate***, University of Edinburgh, 2023 &nbsp; [Slides](/files/Talks/2023_CSTR_PER_ELoweimi.pdf)
 
   * ***Speech Acoustic Modelling from Raw Signal Representations***, Edinburgh Napier University, 2022 &nbsp; [Slides](/files/Talks/ENU_RawAM_ELoweimi.pdf)
   
