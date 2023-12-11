@@ -15,11 +15,11 @@ title: ""
  * ***Raw Sign and Magnitude Spectra for Multi-head Acoustic Modelling***, University of Edinburgh, 2020 &nbsp; [Slides](/files/Talks/2020_Raw_Sign_Mag_FINAL.pdf)
  
  * ***Understanding and Interpreting DNNs for Speech Recognition***, University of Edinburgh, 2019 &nbsp; [Slides](/files/Talks/2019_CSTR_DNN_Understanding_ASR.pdf)
- 
- * ***Speech Phase Spectrum: Love It or Leave It?***, University of Edinburgh, 2018 &nbsp; <!--[Slides](/files/Talks/2018_ELoweimi_CSTR_part1.pdf)-->
-     
+      
   * ***DNN Statistical Interpretation and Normalisation for ASR***, Qatar Computing Research Institute (QCRI), 2019 &nbsp; [Slides](/files/Talks/2019_QCRI.pdf) &nbsp;  [Video](https://www.youtube.com/watch?v=MomZa3lmpmM)
-  
+
+  * ***Speech Phase Spectrum: Love It or Leave It?***, University of Edinburgh, 2018 &nbsp; <!--[Slides](/files/Talks/2018_ELoweimi_CSTR_part1.pdf)-->
+
   * ***Channel Compensation in the Generalised VTS Approach to Robust ASR***, UKSpeech, 2017 &nbsp; [Slides](/files/Talks/2017_UKSpeech.pdf) &nbsp; [Video](https://www.youtube.com/watch?v=iUdGdhvxX7s)
   
   * ***Source-filter Separation of Speech Signal in the Phase Domain***, UKSpeech, 2015 &nbsp; [Slides](/files/Talks/2015_UKSpeech.pdf)
