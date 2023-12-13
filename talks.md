@@ -12,7 +12,7 @@ title: ""
   
  * ***On the Robustness and Training Dynamics of Raw Waveform Models***, University of Edinburgh, 2021 &nbsp; [Slides](/files/Talks/2020_Dynamics_Robustness.pdf)
  
- * ***Raw Sign and Magnitude Spectra for Multi-head Acoustic Modelling***, University of Edinburgh, 2020 &nbsp; [Slides](/files/Talks/2020_Raw_Sign_Mag_FINAL.pdf)
+ * ***Raw Sign and Magnitude Spectra for Multi-head Acoustic Modelling***, University of Edinburgh, 2020 &nbsp; [Slides](/files/Talks/2020_Raw_Sign_Mag.pdf)
  
  * ***Understanding and Interpreting DNNs for Speech Recognition***, University of Edinburgh, 2019 &nbsp; [Slides](/files/Talks/2019_CSTR_DNN_Understanding_ASR.pdf)
       
