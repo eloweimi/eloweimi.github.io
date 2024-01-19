@@ -28,5 +28,5 @@ I completed my PhD in 2018 at the Speech and Hearing Research Group ([SPandH](ht
   * End-to-end Speech Processing
   * Speech Technology for Healthcare Applications
   * Explainable and Trustworthy AI-based Speech Technology
-  * Multi-modal Information Retrieval
+  * Multimodal Information Retrieval
 
