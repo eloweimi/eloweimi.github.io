@@ -33,6 +33,7 @@ title: ""
 * #### Others
    - Session Chair (INTERSPEECH, ICASSP, SLT)
    - Organisation Committee Member, [UKISpeech](), Cambridge, UK, 2024
+   - Cambridge Speech Group Seminars Co-organiser, 2023-present
    - Scientific Committee Member of Advances in Multi-modal Hearing Assistive Technologies ([AMHAT](https://cogmhear.org/amhat2023/)), 2023
    - Scientific Committee Member of Machine Vision and Image Processing (MVIP), 2022
    - Scientific Committee Member of Applied Research in Electrical Engineering, 2022
