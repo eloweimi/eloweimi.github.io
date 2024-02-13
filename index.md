@@ -10,14 +10,19 @@ title: "About"
 
 
 Greetings! 
-I am a Research Associate with the [Speech Research Group](https://mi.eng.cam.ac.uk/Main/Speech/WebHome) at the Machine Intelligence Laboratory, <u>University of Cambridge</u> (2022-) working with Professor [Mark Gales](http://mi.eng.cam.ac.uk/~mjfg/). Prior to that, I was a post-doc at <u>King's College London</u> (2021-2023), working with Professor [Zoran Cvetkovic](https://www.kcl.ac.uk/people/zoran-cvetkovic). I did my first post-doc at the Centre for Speech Technology Research ([CSTR](https://www.cstr.ed.ac.uk/)), <u>University of Edinburgh</u> (2018-2021) working with Professor [Steve Renals](https://www.research.ed.ac.uk/en/persons/stephen-renals) and Professor [Peter Bell](https://www.research.ed.ac.uk/en/persons/peter-bell).
+<!--I am a Research Associate with the [Speech Research Group](https://mi.eng.cam.ac.uk/Main/Speech/WebHome) at the Machine Intelligence Laboratory, <u>University of Cambridge</u> (2022-) working with Professor [Mark Gales](http://mi.eng.cam.ac.uk/~mjfg/). Prior to that, I was a post-doc at <u>King's College London</u> (2021-2023), working with Professor [Zoran Cvetkovic](https://www.kcl.ac.uk/people/zoran-cvetkovic). I did my first post-doc at the Centre for Speech Technology Research ([CSTR](https://www.cstr.ed.ac.uk/)), <u>University of Edinburgh</u> (2018-2021) working with Professor [Steve Renals](https://www.research.ed.ac.uk/en/persons/stephen-renals) and Professor [Peter Bell](https://www.research.ed.ac.uk/en/persons/peter-bell).-->
+
+I am a Research Associate with the [Speech Research Group](https://mi.eng.cam.ac.uk/Main/Speech/WebHome) at the Machine Intelligence Laboratory, <u>University of Cambridge</u> (2022-). Prior to that,
+* Post-doc at King's College London (2021-2023)
+* Previous post-doc at University of Edinburgh's Centre for Speech Technology Research (2018-2021)
+
 
 <br>
 
-<br>
+<!--<br>
 &#x1F4A1; I am open to new opportunities and exploring exciting roles in my field of expertise. Please feel free to [contact me](mailto:erfan.loweimi@gmail.com) to discuss potential collaborations.
 
-<br>
+<br>-->
 
 ### Education ###
 I completed my PhD in 2018 at the Speech and Hearing Research Group ([SPandH](https://www.sheffield.ac.uk/dcs/research/groups/spandh)), <u>University of Sheffield</u>, under the joint supervision of Professor [Jon Barker](http://staffwww.dcs.shef.ac.uk/people/J.Barker/) and Professor [Thomas Hain](https://staffwww.dcs.shef.ac.uk/people/T.Hain/). You can access my PhD thesis by clicking [here](https://etheses.whiterose.ac.uk/19409/).
