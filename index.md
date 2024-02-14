@@ -24,7 +24,6 @@ I am a Research Associate with the [Speech Research Group](https://mi.eng.cam.ac
 
 <br>-->
 
-<br>
 
 ### Education ###
 <!-- I completed my PhD in 2018 at the Speech and Hearing Research Group ([SPandH](https://www.sheffield.ac.uk/dcs/research/groups/spandh)), <u>University of Sheffield</u>, under the joint supervision of Professor [Jon Barker](http://staffwww.dcs.shef.ac.uk/people/J.Barker/) and Professor [Thomas Hain](https://staffwww.dcs.shef.ac.uk/people/T.Hain/). You can access my PhD thesis by clicking [here](https://etheses.whiterose.ac.uk/19409/). -->
@@ -33,7 +32,6 @@ I completed my PhD in 2018 at the [Speech and Hearing Research Group](https://ww
 
 <!-- I received my <u>MSc</u> and <u>BSc</u> degrees from Amirkabir University of Technology (Tehran Polytechnic) and Shahid Chamran University of Ahvaz, respectively, with both degrees in Electronics Engineering. My MSc dissertation supervisor and advisor were Professor [Seyed Mohammad Ahadi](https://www.linkedin.com/in/seyed-mohammad-ahadi-7a8b4435/?originalSubdomain=ir) and Professor [Hamid Sheikhadeh](https://www.linkedin.com/in/hamid-sheikhzadeh-ba2a7748/?originalSubdomain=ca). -->
 
-<br>
 
 <br>
 
