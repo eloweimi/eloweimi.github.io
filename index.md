@@ -14,7 +14,7 @@ title: "Greetings!"
 
 I am a Research Associate with the [Speech Research Group](https://mi.eng.cam.ac.uk/Main/Speech/WebHome) at the [Machine Intelligence Laboratory](https://mi.eng.cam.ac.uk/), University of Cambridge (2022-). I was a post-doc at:
 * King's College London (2021-2023)
-* [Centre for Speech Technology Research](https://www.cstr.ed.ac.uk/), University of Edinburgh (2018-2021)
+* Centre for Speech Technology Research [(CSTR)](https://www.cstr.ed.ac.uk/), University of Edinburgh (2018-2021)
 
 
 <br>
@@ -28,7 +28,7 @@ I am a Research Associate with the [Speech Research Group](https://mi.eng.cam.ac
 ### Education ###
 <!-- I completed my PhD in 2018 at the Speech and Hearing Research Group ([SPandH](https://www.sheffield.ac.uk/dcs/research/groups/spandh)), <u>University of Sheffield</u>, under the joint supervision of Professor [Jon Barker](http://staffwww.dcs.shef.ac.uk/people/J.Barker/) and Professor [Thomas Hain](https://staffwww.dcs.shef.ac.uk/people/T.Hain/). You can access my PhD thesis by clicking [here](https://etheses.whiterose.ac.uk/19409/). -->
 
-I completed my PhD in 2018 at the [Speech and Hearing Research Group](https://www.sheffield.ac.uk/dcs/research/groups/spandh), University of Sheffield. &nbsp; [Thesis](https://etheses.whiterose.ac.uk/19409/)
+I completed my PhD in 2018 at the Speech and Hearing Research Group[(SPandH)](https://www.sheffield.ac.uk/dcs/research/groups/spandh), University of Sheffield. &nbsp; [Thesis](https://etheses.whiterose.ac.uk/19409/)
 
 <!-- I received my <u>MSc</u> and <u>BSc</u> degrees from Amirkabir University of Technology (Tehran Polytechnic) and Shahid Chamran University of Ahvaz, respectively, with both degrees in Electronics Engineering. My MSc dissertation supervisor and advisor were Professor [Seyed Mohammad Ahadi](https://www.linkedin.com/in/seyed-mohammad-ahadi-7a8b4435/?originalSubdomain=ir) and Professor [Hamid Sheikhadeh](https://www.linkedin.com/in/hamid-sheikhzadeh-ba2a7748/?originalSubdomain=ca). -->
 
