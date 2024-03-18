@@ -6,6 +6,8 @@ title: ""
 
 ## Research Talks ##
 
+  * ***Speaker Retrieval in the Wild: Challenges, Effectiveness and Robustness***, University of Cambridge, 2024 &nbsp;
+
   * ***Phonetic Error Analysis beyond Phone Error Rate***, University of Edinburgh, 2023 &nbsp; [Slides](/files/Talks/2023_CSTR_PER_ELoweimi.pdf)
 
   * ***Speech Acoustic Modelling from Raw Signal Representations***, Edinburgh Napier University, 2022 &nbsp; [Slides](/files/Talks/2022_ENU_RawAM_ELoweimi.pdf)
