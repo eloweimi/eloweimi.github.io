@@ -7,6 +7,7 @@ title: ""
 
 * #### Area Chair (Speech Recognition), INTERSPEECH 2024
 * #### Meta Reviewer (Speech Analysis), ICASSP 2024
+* #### [UKISpeech 2024](https://ukis2024.eng.cam.ac.uk/) Organising Committee Member, Cambridge, UK
 * #### Area Chair (Speech and Multimodality), EMNLP 2023
 * #### Area Chair (Speech Recognition), INTERSPEECH 2023
 * #### Meta Reviewer (Speech Analysis), ICASSP 2023
@@ -32,7 +33,6 @@ title: ""
 
 * #### Others
    - Session Chair (INTERSPEECH, ICASSP, SLT)
-   - Organising Committee Member, [UKISpeech](https://ukis2024.eng.cam.ac.uk/), Cambridge, UK, 2024
    - Cambridge Speech Group Seminars Co-organiser, 2023-present
    - Scientific Committee Member of Advances in Multi-modal Hearing Assistive Technologies ([AMHAT](https://cogmhear.org/amhat2023/)), 2023
    - Scientific Committee Member of Machine Vision and Image Processing (MVIP), 2022
