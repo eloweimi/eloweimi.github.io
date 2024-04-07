@@ -22,7 +22,7 @@ title: ""
 -->
 
 * #### Reviewer 
-   - Journals: IEEE/ACM TASLP, Speech Communication
+   - Journals: IEEE/ACM TASLP, Computer Speech & Language
    - Conferences: INTERSPEECH, ICASSP, ASRU, SLT
      
  
