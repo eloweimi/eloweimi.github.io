@@ -22,7 +22,7 @@ title: ""
 -->
 
 * #### Reviewer 
-   - Journals: IEEE/ACM Transactions on Audio, Speech, and Language Processing, Computer Speech & Language
+   - Journals: IEEE/ACM Transactions on Audio, Speech, and Language Processing; Computer Speech & Language
    - Conferences: INTERSPEECH, ICASSP, ASRU, SLT, ACII
      
  
