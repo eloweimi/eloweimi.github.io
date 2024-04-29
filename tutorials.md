@@ -9,8 +9,8 @@ I am passionate about expanding my knowledge through continuous learning, and di
   * E. Loweimi and S. Loveymi, *Recent Advances in Interpreting and Understanding DNNs*, Iranian Conference on Machine Vision and Image Processing (MVIP), Iran, 2022 &nbsp; [Slides](/files/Tutorials/MVIP2022_W5_RecentAdvances.pdf) &nbsp; [BibTeX](/files/others/mvip2022.bib) 
 
 #### Internal ####
-  * Contrastive Learning + CPC &nbsp; [Slides](/files/Tutorials/ContrastiveLearning_ErfanLoweimi.pdf)
   * Transformers (vs RNN Encoder-Decoders + Attention) &nbsp; [Slides](/files/Tutorials/Transformers_ErfanLoweimi.pdf)
+  * Contrastive Learning + CPC &nbsp; [Slides](/files/Tutorials/ContrastiveLearning_ErfanLoweimi.pdf)
   * Raw Waveform Acoustic Modelling for ASR &nbsp; &nbsp; [Part1](/files/Tutorials/Raw_Part_I.pdf) &nbsp; &nbsp; [Part2](/files/Tutorials/Raw_Part_II.pdf) &nbsp; &nbsp; [Part3](/files/Tutorials/Raw_Part_III.pdf) &nbsp; &nbsp; [Part4](/files/Tutorials/Raw_Part_IV.pdf)
   * Dual-Mode ASR (Unifying streaming with full-context modelling) &nbsp; [Slides](/files/Tutorials/DualMode_ASR_ErfanLoweimi.pdf)
   * WER wer are and WER we think we are? Rethinking evaluation in ASR + History of ASR to 2030 &nbsp; [Slides](/files/Tutorials/WER_all_ErfanLoweimi.pdf)
