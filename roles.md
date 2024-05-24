@@ -7,8 +7,8 @@ title: ""
 
 * #### Area Chair (Speech Recognition), INTERSPEECH 2024
 * #### Meta Reviewer (Speech Analysis), ICASSP 2024
-* #### UK and Ireland Speech (UKISpeech) Committee Member (2024-)
-* #### [UKISpeech 2024](https://ukis2024.eng.cam.ac.uk/) Organising Committee Member, Cambridge, UK, 2024
+* #### UK and Ireland Speech (UKIS) Committee Member (2024-)
+* #### [UKIS 2024](https://ukis2024.eng.cam.ac.uk/) Organising Committee Member, Cambridge, UK, 2024
 * #### Area Chair (Speech and Multimodality), EMNLP 2023
 * #### Area Chair (Speech Recognition), INTERSPEECH 2023
 * #### Meta Reviewer (Speech Analysis), ICASSP 2023
