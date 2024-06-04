@@ -22,6 +22,11 @@ in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 30, pp.
 
 ## Conferences ##
 
+1. **E. Loweimi**, M. Qian, K. Knill, and M. Gales, [On the Usefulness of Speaker Embeddings for Speaker Retrieval in the Wild:
+A Comparative Study of x-vector and ECAPA-TDNN Models](), INTERSPEECH, 2024 (Accepted).
+
+1. **E. Loweimi**, A. Carmantini, P. Bell, S. Renals and Z. Cvetkovic, “[Phonetic Error Analysis of Raw Waveform Acoustic Models with Parametric and Non-Parametric CNNs](https://arxiv.org/abs/2406.00898)", arXiv, 2024.
+
 1. Z. Yue **<sup>&#8224;</sup>, E. Loweimi <sup>&#8224;</sup>**, and Z. Cvetkovic, “[Dysarthric Speech Recognition, Detection and Classification using Raw Phase and Magnitude Spectra](https://www.isca-speech.org/archive/interspeech_2023/yue23_interspeech.html)“, INTERSPEECH, 2023 (**<sup>&#8224;</sup>** Equal contribution).
 
 2. Z. Yue **<sup>&#8224;</sup>, E. Loweimi <sup>&#8224;</sup>**, J. Barker, H. Christensen, and Z. Cvetkovic, “[Dysarthric Speech Recognition from Raw Waveform with Parametric CNNs](https://www.isca-speech.org/archive/interspeech_2022/yue22_interspeech.html)”, INTERSPEECH,
