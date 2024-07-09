@@ -9,6 +9,8 @@ title: ""
 <br>
 
 ## Journals ##
+1. Guanfeng Wu, Abbas Haider, Xing Tian, **E. Loweimi**, Chi Ho Chan, Mengjie Qian, Awan Muhammad, Ivor Spence, Rob Cooper, Wing W. Y. Ng, Kittle Josef, Mark Gales and Hui Wang, "[Multi-modal Video Search by Examples – A Video Quality Impact Analysis]()", in IET Computer Vision (Accepted for Publication).
+
 1. **E. Loweimi**, A. Carmantini, P. Bell, S. Renals and Z. Cvetkovic, "[Phonetic Error Analysis Beyond Phone Error Rate](https://ieeexplore.ieee.org/abstract/document/10244118)", in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 3346-3361, 2023, doi: 10.1109/TASLP.2023.3313417. &nbsp; [Preprint](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/229243895/LEA_PrePrint.pdf)
 
 2. **E. Loweimi**, Z. Yue, P. Bell, S. Renals, and Z. Cvetkovic, “[Multi-stream Acoustic
