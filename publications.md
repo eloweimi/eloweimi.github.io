@@ -9,7 +9,7 @@ title: ""
 <br>
 
 ## Journals ##
-1. G. Wu, A. Haider, X. Tian, **E. Loweimi**, Ch-H.Chan, M. Qian, A. Muhammad, I. Spence, R. Cooper, W.W.Y. Ng, J. Kittler, M. Gales and H. Wang, "[Multi-modal Video Search by Examples – A Video Quality Impact Analysis]()", IET Computer Vision (Accepted for Publication), 2024.
+1. G. Wu, A. Haider, X. Tian, **E. Loweimi**, Ch-H.Chan, M. Qian, A. Muhammad, I. Spence, R. Cooper, W.W.Y. Ng, J. Kittler, M. Gales and H. Wang, "[Multi-modal Video Search by Examples – A Video Quality Impact Analysis](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12303)", IET Computer Vision (Accepted for Publication), 2024.
 
 1. **E. Loweimi**, A. Carmantini, P. Bell, S. Renals and Z. Cvetkovic, "[Phonetic Error Analysis Beyond Phone Error Rate](https://ieeexplore.ieee.org/abstract/document/10244118)", IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 3346-3361, 2023, doi: 10.1109/TASLP.2023.3313417. &nbsp; [Preprint](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/229243895/LEA_PrePrint.pdf)
 
