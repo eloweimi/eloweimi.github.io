@@ -33,7 +33,7 @@ title: ""
 
 
 * #### Others
-   - Session Chair (INTERSPEECH, ICASSP, SLT)
+   - Session Chair: INTERSPEECH, ICASSP, Spoken Language Technology (SLT), UK and Ireland Speech (UKIS)
    - Cambridge Speech Group Seminars Co-organiser, 2023-present
    - Scientific Committee Member of Advances in Multi-modal Hearing Assistive Technologies ([AMHAT](https://cogmhear.org/amhat2023/)), 2023
    - Scientific Committee Member of Machine Vision and Image Processing (MVIP), 2022
