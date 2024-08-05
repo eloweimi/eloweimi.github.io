@@ -31,7 +31,7 @@ Previously, I have been a post-doctoral researcher at:
 
 I completed my PhD in 2018 at the [Speech and Hearing Research Group (SPandH)](https://www.sheffield.ac.uk/dcs/research/groups/spandh), University of Sheffield. &nbsp; [MyThesis](https://etheses.whiterose.ac.uk/19409/)
 
-I received my MSc degree from [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en) and my BSc degree from [Shahid Chamran University of Ahvaz](https://scu.ac.ir/en/).
+I received my MSc degree from Amirkabir University of Technology ([Tehran Polytechnic](https://aut.ac.ir/en)) and my BSc degree from [Shahid Chamran University of Ahvaz](https://scu.ac.ir/en/).
 
 <!-- I received my <u>MSc</u> and <u>BSc</u> degrees from Amirkabir University of Technology (Tehran Polytechnic) and Shahid Chamran University of Ahvaz, respectively, with both degrees in Electronics Engineering. My MSc dissertation supervisor and advisor were Professor [Seyed Mohammad Ahadi](https://www.linkedin.com/in/seyed-mohammad-ahadi-7a8b4435/?originalSubdomain=ir) and Professor [Hamid Sheikhadeh](https://www.linkedin.com/in/hamid-sheikhzadeh-ba2a7748/?originalSubdomain=ca). -->
 
