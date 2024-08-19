@@ -29,7 +29,7 @@ Previously, I have been a post-doctoral researcher at:
 ### Education ###
 <!-- I completed my PhD in 2018 at the Speech and Hearing Research Group ([SPandH](https://www.sheffield.ac.uk/dcs/research/groups/spandh)), <u>University of Sheffield</u>, under the joint supervision of Professor [Jon Barker](http://staffwww.dcs.shef.ac.uk/people/J.Barker/) and Professor [Thomas Hain](https://staffwww.dcs.shef.ac.uk/people/T.Hain/). You can access my PhD thesis by clicking [here](https://etheses.whiterose.ac.uk/19409/). -->
 
-I completed my PhD in 2018 at the [Speech and Hearing Research Group (SPandH)](https://www.sheffield.ac.uk/dcs/research/groups/spandh), University of Sheffield. &nbsp; [MyThesis](https://etheses.whiterose.ac.uk/19409/)
+I completed my PhD in 2018 at [Speech and Hearing Research Group (SPandH)](https://www.sheffield.ac.uk/dcs/research/groups/spandh), University of Sheffield. &nbsp; [MyThesis](https://etheses.whiterose.ac.uk/19409/)
 
 I received my MSc from Amirkabir University of Technology ([Tehran Polytechnic](https://aut.ac.ir/en)) and my BSc from [Shahid Chamran University of Ahvaz](https://scu.ac.ir/en/).
 
