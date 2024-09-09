@@ -27,7 +27,9 @@ Modelling from Raw Source and Filter Components for Dysarthric Speech Recognitio
 1. **E. Loweimi**, M. Qian, K. Knill, and M. Gales, [On the Usefulness of Speaker Embeddings for Speaker Retrieval in the Wild:
 A Comparative Study of x-vector and ECAPA-TDNN Models](https://www.repository.cam.ac.uk/items/38425b1e-9e3d-4c44-807d-bb874fae2e73), INTERSPEECH, 2024.
 
-1. **E. Loweimi**, A. Carmantini, P. Bell, S. Renals and Z. Cvetkovic, “[Phonetic Error Analysis of Raw Waveform Acoustic Models with Parametric and Non-Parametric CNNs](https://arxiv.org/abs/2406.00898)", arXiv, 2024.
+1. M. Qian, R. Ma, A. Liusie, **E. Loweimi**, K. Knill, and M. Gales, [Zero-shot Audio Topic Reranking using Large Language Models]([https://www.repository.cam.ac.uk/items/38425b1e-9e3d-4c44-807d-bb874fae2e73](https://arxiv.org/pdf/2309.07606)), SLT, 2024.
+
+1. **E. Loweimi**, A. Carmantini, P. Bell, S. Renals, and Z. Cvetkovic, “[Phonetic Error Analysis of Raw Waveform Acoustic Models with Parametric and Non-Parametric CNNs](https://arxiv.org/abs/2406.00898)", arXiv, 2024.
 
 1. Z. Yue **<sup>&#8224;</sup>, E. Loweimi <sup>&#8224;</sup>**, and Z. Cvetkovic, “[Dysarthric Speech Recognition, Detection and Classification using Raw Phase and Magnitude Spectra](https://www.isca-speech.org/archive/interspeech_2023/yue23_interspeech.html)“, INTERSPEECH, 2023 (**<sup>&#8224;</sup>** Equal contribution).
 
