@@ -25,7 +25,7 @@ Modelling from Raw Source and Filter Components for Dysarthric Speech Recognitio
 ## Conferences ##
 
 1. **E. Loweimi**, M. Qian, K. Knill, and M. Gales, [On the Usefulness of Speaker Embeddings for Speaker Retrieval in the Wild:
-A Comparative Study of x-vector and ECAPA-TDNN Models]([https://www.repository.cam.ac.uk/items/38425b1e-9e3d-4c44-807d-bb874fae2e73](https://www.isca-archive.org/interspeech_2024/loweimi24_interspeech.html), INTERSPEECH, 2024.
+A Comparative Study of x-vector and ECAPA-TDNN Models](https://www.isca-archive.org/interspeech_2024/loweimi24_interspeech.html), INTERSPEECH, 2024.
 
 1. M. Qian, R. Ma, A. Liusie, **E. Loweimi**, K. Knill, and M. Gales, [Zero-shot Audio Topic Reranking using Large Language Models](https://arxiv.org/pdf/2309.07606), SLT, 2024.
 
