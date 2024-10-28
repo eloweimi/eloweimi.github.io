@@ -25,9 +25,9 @@ Speech Recognition***, Qatar Computing Research Institute (QCRI), 2019 &nbsp; [S
 
   * ***Speech Phase Spectrum: Love It or Leave It?***, University of Edinburgh, 2018 &nbsp; <!--[Slides](/files/Talks/2018_ELoweimi_CSTR_part1.pdf)-->
 
-  * ***Channel Compensation in the Generalised VTS Approach to Robust ASR***, UKSpeech, 2017 &nbsp; [Slides](/files/Talks/2017_UKSpeech.pdf) &nbsp; [Video](https://www.youtube.com/watch?v=iUdGdhvxX7s)
+  * ***Channel Compensation in the Generalised VTS Approach to Robust ASR***, UKSpeech (University of Cambridge), 2017 &nbsp; [Slides](/files/Talks/2017_UKSpeech.pdf) &nbsp; [Video](https://www.youtube.com/watch?v=iUdGdhvxX7s)
   
-  * ***Source-filter Separation of Speech Signal in the Phase Domain***, UKSpeech, 2015 &nbsp; [Slides](/files/Talks/2015_UKSpeech.pdf)
+  * ***Source-filter Separation of Speech Signal in the Phase Domain***, UKSpeech (University of East Anglia), 2015 &nbsp; [Slides](/files/Talks/2015_UKSpeech.pdf)
 
 <br>
 
