@@ -40,6 +40,7 @@ I received my MSc from Amirkabir University of Technology ([Tehran Polytechnic](
 ### Research Interests ###
   * Speech Technology for Healthcare Applications
   * End-to-end Speech Processing
+  * Multimodal Speech and Language Processing
   * Explainable and Trustworthy AI-based Speech Technology
   * Multimodal Information Retrieval
 
