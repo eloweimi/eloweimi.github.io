@@ -32,6 +32,9 @@ Speech Recognition***, Qatar Computing Research Institute (QCRI), 2019 &nbsp; [S
 <br>
 
 ## Other Talks ##
+
+* ***From Priors to Transformers: How CSTR Encoded my Career Path***, CSTR's 40th Anniversary, Endinburgh, 2024
+
 * ***Genie in the mike! The Science of Talking (with) Machines***, A Pint of Science Festival, Sheffield, 2017 &nbsp; [Teaser](https://www.youtube.com/watch?v=Ta4xGpuFbGI&list=PL63P9-KNTDSwOtKRosM-oXJXUGTtweljS&index=7)
  
 * ***Signal Processing is Dead(?)! Long Live DNN!***, Machine Intelligence for Natural Interfaces (MINI) workshop, Sheffield, 2016
