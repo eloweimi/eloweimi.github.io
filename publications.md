@@ -55,7 +55,7 @@ Models](https://www.isca-speech.org/archive/interspeech_2021/zhang21p_interspeec
 
 11. **E. Loweimi**, P. Bell, and S. Renals, “[On the Robustness and Training Dynamics of Raw Waveform Models](https://www.isca-speech.org/archive/interspeech_2020/loweimi20_interspeech.html)”, INTERSPEECH, 2020.
 
-12. S. Zhang, **E. Loweimi**, P. Bell, and S. Renals, “[On The Usefulness of Self-Attention for Automatic Speech Recognition with Transformers](https://ieeexplore.ieee.org/abstract/document/9383521))”, SLT, 2020.
+12. S. Zhang, **E. Loweimi**, P. Bell, and S. Renals, “[On The Usefulness of Self-Attention for Automatic Speech Recognition with Transformers](https://ieeexplore.ieee.org/abstract/document/9383521)”, SLT, 2020.
 
 13. J. Fainberg, O. Klejch, **E. Loweimi**, P. Bell, and S. Renals, “[Acoustic Model Adaptation from Raw Waveforms with SincNet](https://ieeexplore.ieee.org/document/9003974)”, ASRU, 2019.
 
