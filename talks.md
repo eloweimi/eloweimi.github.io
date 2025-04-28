@@ -32,7 +32,7 @@ Speech Recognition***, Qatar Computing Research Institute (QCRI), 2019 &nbsp; [S
 <br>
 
 ## Other Talks ##
-* ***AI: From Zero to Aha!***, University of Edinburgh (Business School), 2025 &nbsp; [Slides](/files/Talks/2025_AI-from-0-to-Aha.pdf)
+* ***AI: From Zero to Aha!***, Business School, University of Edinburgh, 2025 &nbsp; [Slides](/files/Talks/2025_AI-from-0-to-Aha.pdf)
 
 * ***From Priors to Transformers: How CSTR Encoded my Career Path***, CSTR's 40th Anniversary, Endinburgh, 2024
 
