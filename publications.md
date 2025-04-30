@@ -9,7 +9,7 @@ title: ""
 <br>
 
 ## Journals ##
-1. **E. Loweimi**, M. Qian, K. Knill, and M. Gales, [Speaker Retrieval in the Wild: Challenges, Effectiveness and Robustness](https://arxiv.org/pdf/2504.18950), arXiv (Under review), 2025.
+1. **E. Loweimi**, M. Qian, K. Knill, and M. Gales, [Speaker Retrieval in the Wild: Challenges, Effectiveness and Robustness](https://arxiv.org/pdf/2504.18950), Under review, 2025.
 
 2. G. Wu, A. Haider, X. Tian, **E. Loweimi**, Ch-H.Chan, M. Qian, A. Muhammad, I. Spence, R. Cooper, W. Ng, J. Kittler, M. Gales and H. Wang, "[Multi-modal Video Search by Examples – A Video Quality Impact Analysis](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12303)", IET Computer Vision, pp. 1–17, 2024, doi: 10.1049/cvi2.12303.
 
