@@ -6,6 +6,8 @@ title: ""
 
 ## Research Talks ##
 
+  * ***Speaker Retrieval in the Wild: Challenges and Insights from BBC Large-Scale Archives***, University of Edinburgh, 2025
+
   * ***Speaker Retrieval in the Wild: Challenges, Effectiveness and Robustness***
     - BBC Broadcasting House, April 2024
     - University of Cambridge, March 2024
