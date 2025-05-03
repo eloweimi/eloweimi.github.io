@@ -5,7 +5,7 @@ title: ""
 
 <br>
 
-* #### Senior Area Chair (Speech Recognition), INTERSPEECH 2025
+* #### Lead Area Chair (Speech Recognition), INTERSPEECH 2025
 * #### Meta Reviewer (Speech Recognition), ICASSP 2025
 * #### Associate Member of IEEE Speech and Language Processing Technical Committee (SLTC) (2023-2025)
 * #### UK and Ireland Speech (UKIS) [Steering Committee](https://ukis.inf.ed.ac.uk/committee/) Member (2024-)
