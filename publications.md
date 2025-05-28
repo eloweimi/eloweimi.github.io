@@ -28,7 +28,9 @@ Modelling from Raw Source and Filter Components for Dysarthric Speech Recognitio
 <br>
 
 ## Conferences ##
-
+<!--2. Z. Yue, ... **E. Loweimi**, [Challenges and practical guidelines for atypical speech data collection,
+annotation, usage and sharing: A multi-project perspective](https://eloweimi.github.io/publications/), INTERSPEECH, 2025.
+-->
 1. **E. Loweimi**, S. De La Fonte Garcia, and S. Luz, [Zero-Shot Speech-Based Depression and Anxiety Assessment with LLMs](https://eloweimi.github.io/publications/), INTERSPEECH, 2025.
 
 2. **E. Loweimi**, M. Qian, K. Knill, and M. Gales, [On the Usefulness of Speaker Embeddings for Speaker Retrieval in the Wild:
