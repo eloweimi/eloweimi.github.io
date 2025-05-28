@@ -31,7 +31,7 @@ Modelling from Raw Source and Filter Components for Dysarthric Speech Recognitio
 
  1. **E. Loweimi**, S. De La Fonte Garcia, and S. Luz, [Zero-Shot Speech-Based Depression and Anxiety Assessment with LLMs](https://www.isca-archive.org/interspeech_2024/loweimi24_interspeech.html), INTERSPEECH, 2025. 
 
-<---2. Z. Yue, **E. Loweimi**, [Challenges and practical guidelines for atypical speech data collection,
+<!---2. Z. Yue, **E. Loweimi**, [Challenges and practical guidelines for atypical speech data collection,
 annotation, usage and sharing: A multi-project perspective](https://www.isca-archive.org/interspeech_2024/loweimi24_interspeech.html), INTERSPEECH, 2025.
 -->
 
