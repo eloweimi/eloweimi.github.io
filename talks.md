@@ -6,7 +6,9 @@ title: ""
 
 ## Research Talks ##
 
-  * ***Speaker Retrieval in the Wild: Challenges and Insights from BBC Large-Scale Archives***, University of Edinburgh, 2025
+  * ***From Speech to Insight: Foundation Models for Qualitative Analysis and Mental Health Assessment***, Usher Institute, University of Edinburgh, 2025
+
+  * ***Speaker Retrieval in the Wild: Challenges and Insights from BBC Large-Scale Archives***, School of Informatics, University of Edinburgh, 2025
 
   * ***Speaker Retrieval in the Wild: Challenges, Effectiveness and Robustness***
     - BBC Broadcasting House, April 2024
@@ -16,16 +18,16 @@ title: ""
 
   * ***Speech Acoustic Modelling from Raw Signal Representations***, Edinburgh Napier University, 2022 &nbsp; [Slides](/files/Talks/2022_ENU_RawAM_ELoweimi.pdf)
   
- * ***On the Robustness and Training Dynamics of Raw Waveform Models***, University of Edinburgh, 2021 &nbsp; [Slides](/files/Talks/2020_Dynamics_Robustness.pdf)
+ * ***On the Robustness and Training Dynamics of Raw Waveform Models***, School of Informatics, University of Edinburgh, 2021 &nbsp; [Slides](/files/Talks/2020_Dynamics_Robustness.pdf)
  
- * ***Raw Sign and Magnitude Spectra for Multi-head Acoustic Modelling***, University of Edinburgh, 2020 &nbsp; [Slides](/files/Talks/2020_Raw_Sign_Mag.pdf)
+ * ***Raw Sign and Magnitude Spectra for Multi-head Acoustic Modelling***, School of Informatics, University of Edinburgh, 2020 &nbsp; [Slides](/files/Talks/2020_Raw_Sign_Mag.pdf)
  
- * ***DNN Statistical Interpretation and Normalisation for ASR***, University of Edinburgh, 2019 &nbsp; [Slides](/files/Talks/2019_CSTR_DNN_Understanding_ASR.pdf)
+ * ***DNN Statistical Interpretation and Normalisation for ASR***, School of Informatics, University of Edinburgh, 2019 &nbsp; [Slides](/files/Talks/2019_CSTR_DNN_Understanding_ASR.pdf)
       
   * ***Understanding and Interpreting DNNs for
 Speech Recognition***, Qatar Computing Research Institute (QCRI), 2019 &nbsp; [Slides](/files/Talks/2019_QCRI.pdf) &nbsp;  [Video](https://www.youtube.com/watch?v=MomZa3lmpmM)
 
-  * ***Speech Phase Spectrum: Love It or Leave It?***, University of Edinburgh, 2018 &nbsp; <!--[Slides](/files/Talks/2018_ELoweimi_CSTR_part1.pdf)-->
+  * ***Speech Phase Spectrum: Love It or Leave It?***, School of Informatics, University of Edinburgh, 2018 &nbsp; <!--[Slides](/files/Talks/2018_ELoweimi_CSTR_part1.pdf)-->
 
   * ***Channel Compensation in the Generalised VTS Approach to Robust ASR***, UKSpeech (University of Cambridge), 2017 &nbsp; [Slides](/files/Talks/2017_UKSpeech.pdf) &nbsp; [Video](https://www.youtube.com/watch?v=iUdGdhvxX7s)
   
