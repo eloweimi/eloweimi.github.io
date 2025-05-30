@@ -6,7 +6,7 @@ title: ""
 
 ## Research Talks ##
 
-  * ***From Speech to Insight: Foundation Models for Qualitative Analysis and Mental Health Assessment***, Centre for Medical Informatics Seminars, Usher Institute, University of Edinburgh, 2025
+  * ***From Speech to Insight: Foundation Models for Qualitative Analysis and Mental Health Assessment***, Usher Institute, University of Edinburgh, 2025
 
   * ***Speaker Retrieval in the Wild: Challenges and Insights from BBC Large-Scale Archives***, School of Informatics, University of Edinburgh, 2025
 
