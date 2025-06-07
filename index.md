@@ -14,7 +14,7 @@ Prior to that, I was a post-doc at <u>King's College London</u> (2021-2023), wor
 
 Greetings! I am a Machine Learning Engineer at [Cisco](https://www.linkedin.com/company/cisco/posts/?feedView=all).
 
-Previously, I was a *Research Fellow in Machine Learning* at the Centre for Medical Informatics (CMI), Usher Institute, University of Edinburgh. I have also held post-doctoral research positions at:
+Previously, I was a *Research Fellow in Machine Learning* at the Centre for Medical Informatics (CMI), Usher Institute, University of Edinburgh (2024-2025). I have also held post-doctoral research positions at:
 - [Machine Intelligence Laboratory](https://mi.eng.cam.ac.uk/), University of Cambridge (2022-2024)
 - King's College London (2021-2023)
 - [Centre for Speech Technology Research (CSTR)](https://www.cstr.ed.ac.uk/), University of Edinburgh (2018-2021)
