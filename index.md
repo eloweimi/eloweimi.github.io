@@ -15,7 +15,6 @@ Greetings! I am a Machine Learning Engineer at [Cisco](https://www.linkedin.com/
 
 Previously, I was a *Research Fellow in Machine Learning* at the Centre for Medical Informatics (CMI), Usher Institute, University of Edinburgh.
 <!--, working with Professor [Saturnino Luz Filho](https://www.research.ed.ac.uk/en/persons/saturnino-luz-filho).-->
-
 I have also held post-doctoral research positions at:
 - [Machine Intelligence Laboratory](https://mi.eng.cam.ac.uk/), University of Cambridge (2022-2024)
 - King's College London (2021-2023)
