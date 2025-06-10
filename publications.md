@@ -12,7 +12,7 @@ title: ""
 1. **E. Loweimi**, M. Qian, K. Knill, and M. Gales, [Speaker Retrieval in the Wild: Challenges, Effectiveness and Robustness](https://arxiv.org/pdf/2504.18950), Under Review, 2025.
 
 2. Z. Yue, **E. Loweimi**, Z. Cvetkovic, J. Barker, and , H. Christensen, "[Raw Acoustic-articulatory Multimodal
-Dysarthric Speech Recognition](https://eloweimi.github.io/publications/)", Computer Speech and Lanauge (CSL), *Accepted for Publication*, 2025.
+Dysarthric Speech Recognition](https://www.sciencedirect.com/science/article/pii/S0885230825000646)", Computer Speech and Lanauge (CSL), *Accepted for Publication*, 2025.
 
 3. G. Wu, A. Haider, X. Tian, **E. Loweimi**, Ch-H.Chan, M. Qian, A. Muhammad, I. Spence, R. Cooper, W. Ng, J. Kittler, M. Gales and H. Wang, "[Multi-modal Video Search by Examples – A Video Quality Impact Analysis](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12303)", IET Computer Vision, pp. 1–17, 2024, doi: 10.1049/cvi2.12303.
 
