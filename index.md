@@ -9,9 +9,9 @@ title: ""
 
 Greetings! 
 
-<br>
+
 I am a Machine Learning Engineer at [Cisco](https://www.linkedin.com/company/cisco/posts/?feedView=all).
-<br>
+
 
 Previously, I was a *Research Fellow in Machine Learning* at the Centre for Medical Informatics (CMI), Usher Institute, University of Edinburgh (2024-2025). I have also held post-doctoral research positions at:
 - [Machine Intelligence Laboratory](https://mi.eng.cam.ac.uk/), University of Cambridge (2022-2024)
@@ -22,7 +22,6 @@ Previously, I was a *Research Fellow in Machine Learning* at the Centre for Medi
 
 <!--<br>
 &#x1F4A1; I am open to new opportunities and exploring exciting roles in my field of expertise. Please feel free to [contact me](mailto:erfan.loweimi@gmail.com) to discuss potential collaborations.
-
 <br>-->
 
 
