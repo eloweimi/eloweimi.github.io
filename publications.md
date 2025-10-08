@@ -106,7 +106,7 @@ Notes in Computer Science, vol. 7911 LNAI, 2013.
 
 37. **E. Loweimi** and S.M. Ahadi, “[A New Group Delay-based Feature for Robust Speech Recognition](https://ieeexplore.ieee.org/document/6011884)”, ICME, 2011.
 
-38. **E. Loweimi**, S.M. Ahadi, and S. Loveymi, “[On the Importance of Phase and Magnitude Spectra in Speech Enhancement](https://ieeexplore.ieee.org/document/5955843)”, ICEE, 2011.
+38. **E. Loweimi**, S.M. Ahadi, and S. Loveymi, “[On the Importance of Phase and Magnitude Spectra in Speech Enhancement](https://ieeexplore.ieee.org/document/5955843)”, ICEE, 2011 ([PDF](/files/others/ICEE2011.pdf)). 
 
 39. **E. Loweimi** and S.M. Ahadi, "[Objective Evaluation of Phase and Magnitude only Reconstructed Speech: New Considerations](https://ieeexplore.ieee.org/document/5605496)", ISSPA, 2010.
 
