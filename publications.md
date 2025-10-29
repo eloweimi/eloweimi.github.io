@@ -11,9 +11,9 @@ title: ""
 ## Journals ##
 1. **E. Loweimi**, M. Qian, K. Knill, and M. Gales, [Speaker Retrieval in the Wild: Challenges, Effectiveness and Robustness](https://arxiv.org/pdf/2504.18950), Under Review, 2025.
 
-2. S. Luz, A. Núñez García, S. de la Fuente García, **E. Loweimi**, M. Masoodian, R. Vieira, and A. Rodrigues, “A study protocol for assessing the effects of intangible cultural heritage experiences on human well-being,” *PLOS ONE*, accepted for publication, manuscript ID: PONE-D-25-45242, doi: (to be assigned).
+2. S. Luz, A. Núñez García, S. de la Fuente García, **E. Loweimi**, M. Masoodian, R. Vieira, and A. Rodrigues, “A Study Protocol for Assessing the Effects of Intangible Cultural Heritage Experiences on Human Well-being,” *PLOS ONE*, accepted for publication, manuscript ID: PONE-D-25-45242, doi: (to be assigned).
 
-3. Z. Yue, **E. Loweimi**, Z. Cvetkovic, J. Barker, and H. Christensen, “Raw acoustic-articulatory multimodal dysarthric speech recognition,” Computer Speech & Language, vol. 95, p. 101839, 2026, doi: 10.1016/j.csl.2025.101839
+3. Z. Yue, **E. Loweimi**, Z. Cvetkovic, J. Barker, and H. Christensen, “[Raw Acoustic-articulatory Multimodal Dysarthric Speech Recognition](https://www.sciencedirect.com/science/article/pii/S0885230825000646),” Computer Speech & Language, vol. 95, p. 101839, 2026, doi: 10.1016/j.csl.2025.101839
 
 4. G. Wu, A. Haider, X. Tian, **E. Loweimi**, Ch-H.Chan, M. Qian, A. Muhammad, I. Spence, R. Cooper, W. Ng, J. Kittler, M. Gales and H. Wang, "[Multi-modal Video Search by Examples – A Video Quality Impact Analysis](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12303)", IET Computer Vision, pp. 1–17, 2024, doi: 10.1049/cvi2.12303.
 
