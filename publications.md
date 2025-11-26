@@ -11,18 +11,20 @@ title: ""
 ## Journals ##
 1. **E. Loweimi**, M. Qian, K. Knill, and M. Gales, [Speaker Retrieval in the Wild: Challenges, Effectiveness and Robustness](https://arxiv.org/pdf/2504.18950), Under Review, 2025.
 
-2. S. Luz, A. Núñez García, S. de la Fuente García, **E. Loweimi**, M. Masoodian, R. Vieira, and A. Rodrigues, “A Study Protocol for Assessing the Effects of Intangible Cultural Heritage Experiences on Human Well-being,” *PLOS ONE*, accepted for publication, manuscript ID: PONE-D-25-45242, doi: (to be assigned).
+2. S. Hosseini, G. Chinello, G. Lindsay, E. Loweimi, M. A. Ansari, and D. McGlinchey, “[Transfer Learning for Data-Driven Wet Gas Flow Metering: Enhancing Generalisation in Digital Measurement Systems](https://www.sciencedirect.com/science/article/pii/S0955598625003383?via%3Dihub),” Flow Measurement and Instrumentation, p. 103146, 2025, doi: 10.1016/j.flowmeasinst.2025.103146.
+   
+3. S. Luz, A. Núñez García, S. de la Fuente García, **E. Loweimi**, M. Masoodian, R. Vieira, and A. Rodrigues, “A Study Protocol for Assessing the Effects of Intangible Cultural Heritage Experiences on Human Well-being,” *PLOS ONE*, accepted for publication, manuscript ID: PONE-D-25-45242, doi: (to be assigned).
 
-3. Z. Yue, **E. Loweimi**, Z. Cvetkovic, J. Barker, and H. Christensen, “[Raw Acoustic-articulatory Multimodal Dysarthric Speech Recognition](https://www.sciencedirect.com/science/article/pii/S0885230825000646),” Computer Speech & Language, vol. 95, p. 101839, 2026, doi: 10.1016/j.csl.2025.101839
+4. Z. Yue, **E. Loweimi**, Z. Cvetkovic, J. Barker, and H. Christensen, “[Raw Acoustic-articulatory Multimodal Dysarthric Speech Recognition](https://www.sciencedirect.com/science/article/pii/S0885230825000646),” Computer Speech & Language, vol. 95, p. 101839, 2026, doi: 10.1016/j.csl.2025.101839
 
-4. G. Wu, A. Haider, X. Tian, **E. Loweimi**, Ch-H.Chan, M. Qian, A. Muhammad, I. Spence, R. Cooper, W. Ng, J. Kittler, M. Gales and H. Wang, "[Multi-modal Video Search by Examples – A Video Quality Impact Analysis](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12303)", IET Computer Vision, pp. 1–17, 2024, doi: 10.1049/cvi2.12303.
+5. G. Wu, A. Haider, X. Tian, **E. Loweimi**, Ch-H.Chan, M. Qian, A. Muhammad, I. Spence, R. Cooper, W. Ng, J. Kittler, M. Gales and H. Wang, "[Multi-modal Video Search by Examples – A Video Quality Impact Analysis](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12303)", IET Computer Vision, pp. 1–17, 2024, doi: 10.1049/cvi2.12303.
 
-5. **E. Loweimi**, A. Carmantini, P. Bell, S. Renals and Z. Cvetkovic, "[Phonetic Error Analysis Beyond Phone Error Rate](https://ieeexplore.ieee.org/abstract/document/10244118)", IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 3346-3361, 2023, doi: 10.1109/TASLP.2023.3313417. &nbsp; [Preprint](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/229243895/LEA_PrePrint.pdf)
+6. **E. Loweimi**, A. Carmantini, P. Bell, S. Renals and Z. Cvetkovic, "[Phonetic Error Analysis Beyond Phone Error Rate](https://ieeexplore.ieee.org/abstract/document/10244118)", IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 3346-3361, 2023, doi: 10.1109/TASLP.2023.3313417. &nbsp; [Preprint](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/229243895/LEA_PrePrint.pdf)
 
-6. **E. Loweimi**, Z. Yue, P. Bell, S. Renals, and Z. Cvetkovic, “[Multi-stream Acoustic
+7. **E. Loweimi**, Z. Yue, P. Bell, S. Renals, and Z. Cvetkovic, “[Multi-stream Acoustic
 Modelling using Raw Real and Imaginary Parts of the Fourier Transform](https://ieeexplore.ieee.org/abstract/document/10026604)”, IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 876-890, 2023, doi: 10.1109/TASLP.2023.3237167. &nbsp; [Preprint](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/193442046/Real_Imag_Journal_FINAL.pdf)
 
-7. Z. Yue **<sup>&#8224;</sup>, E. Loweimi <sup>&#8224;</sup>**, J. Barker, H. Christensen, and Z. Cvetkovic, “[Acoustic
+8. Z. Yue **<sup>&#8224;</sup>, E. Loweimi <sup>&#8224;</sup>**, J. Barker, H. Christensen, and Z. Cvetkovic, “[Acoustic
 Modelling from Raw Source and Filter Components for Dysarthric Speech Recognition](https://ieeexplore.ieee.org/document/9900378)”,
  IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 30, pp. 2968-2980, 2022, doi: 10.1109/TASLP.2022.3205766 (**<sup>&#8224;</sup>** Equal contribution). &nbsp; [Preprint](https://eprints.whiterose.ac.uk/192463/6/Journal_zhengjun_Erfan__source_filter_%20%289%29.pdf)
 
