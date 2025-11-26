@@ -11,9 +11,9 @@ title: ""
 ## Journals ##
 1. **E. Loweimi**, M. Qian, K. Knill, and M. Gales, [Speaker Retrieval in the Wild: Challenges, Effectiveness and Robustness](https://arxiv.org/pdf/2504.18950), Under Review, 2025.
 
-2. S. Hosseini, G. Chinello, G. Lindsay, E. Loweimi, M. A. Ansari, and D. McGlinchey, “[Transfer Learning for Data-Driven Wet Gas Flow Metering: Enhancing Generalisation in Digital Measurement Systems](https://www.sciencedirect.com/science/article/pii/S0955598625003383?via%3Dihub),” Flow Measurement and Instrumentation, p. 103146, 2025, doi: 10.1016/j.flowmeasinst.2025.103146.
-   
-3. S. Luz, A. Núñez García, S. de la Fuente García, **E. Loweimi**, M. Masoodian, R. Vieira, and A. Rodrigues, “A Study Protocol for Assessing the Effects of Intangible Cultural Heritage Experiences on Human Well-being,” *PLOS ONE*, accepted for publication, manuscript ID: PONE-D-25-45242, doi: (to be assigned).
+2. S. Hosseini, G. Chinello, G. Lindsay, **E. Loweimi**, M. A. Ansari, and D. McGlinchey, “[Transfer Learning for Data-Driven Wet Gas Flow Metering: Enhancing Generalisation in Digital Measurement Systems](https://www.sciencedirect.com/science/article/pii/S0955598625003383?via%3Dihub),” Flow Measurement and Instrumentation, p. 103146, 2025, doi: 10.1016/j.flowmeasinst.2025.103146.
+
+3. A. Núñez García, S. de la Fuente García, **E. Lowemi**, M. Masoodian, R. Vieira, A. Rodrigues, and S. Luz, “[A study protocol for assessing the effects of intangible cultural heritage experiences on human well-being](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336120),” PLOS ONE, Nov. 12, 2025, doi: 10.1371/journal.pone.0336120.
 
 4. Z. Yue, **E. Loweimi**, Z. Cvetkovic, J. Barker, and H. Christensen, “[Raw Acoustic-articulatory Multimodal Dysarthric Speech Recognition](https://www.sciencedirect.com/science/article/pii/S0885230825000646),” Computer Speech & Language, vol. 95, p. 101839, 2026, doi: 10.1016/j.csl.2025.101839
 
@@ -27,6 +27,7 @@ Modelling using Raw Real and Imaginary Parts of the Fourier Transform](https://i
 8. Z. Yue **<sup>&#8224;</sup>, E. Loweimi <sup>&#8224;</sup>**, J. Barker, H. Christensen, and Z. Cvetkovic, “[Acoustic
 Modelling from Raw Source and Filter Components for Dysarthric Speech Recognition](https://ieeexplore.ieee.org/document/9900378)”,
  IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 30, pp. 2968-2980, 2022, doi: 10.1109/TASLP.2022.3205766 (**<sup>&#8224;</sup>** Equal contribution). &nbsp; [Preprint](https://eprints.whiterose.ac.uk/192463/6/Journal_zhengjun_Erfan__source_filter_%20%289%29.pdf)
+
 
 <br>
 
