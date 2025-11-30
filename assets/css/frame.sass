@@ -11,7 +11,7 @@ body
   box-shadow: 0 0 .3em lighten($dark, 65%)
 
 body > header, body > footer
-  background: lighten($dark, 5%)
+  background: #1a3a52
   color: $light
 
 @media (min-width: 32em)
@@ -21,5 +21,7 @@ body > header, body > footer
 @media (prefers-color-scheme: dark)
   body, body > header, body > footer
     box-shadow: 0 0 0 1px lighten($dark, 8%)
-  html, body > header, body > footer
+  html
     background: $dark
+  body > header, body > footer
+    background: #1a3a52
