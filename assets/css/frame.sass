@@ -19,8 +19,10 @@ body > header, body > footer
     padding: 1.75em calc(22% - 6em)
 
 @media (prefers-color-scheme: dark)
-  body, body > header, body > footer
+  body
     box-shadow: 0 0 0 1px lighten($dark, 8%)
+  body > header, body > footer
+    box-shadow: 0 0 0 1px #00162e
   html
     background: $dark
   body > header, body > footer
