@@ -10,10 +10,10 @@ title: ""
 Greetings! 
 
 
-<!-- I am a Machine Learning Engineer at [Cisco](https://www.linkedin.com/company/cisco/posts/?feedView=all). -->
+-- I am a Machine Learning Engineer at [Cisco](https://www.linkedin.com/company/cisco/posts/?feedView=all).
 
 
-I am a *Research Fellow in Machine Learning* at the Centre for Medical Informatics (CMI), Usher Institute, University of Edinburgh (2024-2025). 
+I was a *Research Fellow in Machine Learning* at the Centre for Medical Informatics (CMI), Usher Institute, University of Edinburgh (2024-2025). 
 
 I have also held post-doctoral research positions at:
 - [Machine Intelligence Laboratory](https://mi.eng.cam.ac.uk/), University of Cambridge (2022-2024)
