@@ -9,13 +9,13 @@ title: ""
 <br>
 
 ## Journals ##
-1. **E. Loweimi**, M. Qian, K. Knill, and M. Gales, [Speaker Retrieval in the Wild: Challenges, Effectiveness and Robustness](https://arxiv.org/pdf/2504.18950), Under Review, 2025.
+q. Z. Yue, **E. Loweimi**, Z. Cvetkovic, J. Barker, and H. Christensen, “[Raw Acoustic-articulatory Multimodal Dysarthric Speech Recognition](https://www.sciencedirect.com/science/article/pii/S0885230825000646),” Computer Speech & Language, vol. 95, p. 101839, 2026, doi: 10.1016/j.csl.2025.101839
+   
+2. **E. Loweimi**, M. Qian, K. Knill, and M. Gales, [Speaker Retrieval in the Wild: Challenges, Effectiveness and Robustness](https://arxiv.org/pdf/2504.18950), Under Review, 2025.
 
-2. S. Hosseini, G. Chinello, G. Lindsay, **E. Loweimi**, M. A. Ansari, and D. McGlinchey, “[Transfer Learning for Data-Driven Wet Gas Flow Metering: Enhancing Generalisation in Digital Measurement Systems](https://www.sciencedirect.com/science/article/pii/S0955598625003383?via%3Dihub),” Flow Measurement and Instrumentation, p. 103146, 2025, doi: 10.1016/j.flowmeasinst.2025.103146.
+3. S. Hosseini, G. Chinello, G. Lindsay, **E. Loweimi**, M. A. Ansari, and D. McGlinchey, “[Transfer Learning for Data-Driven Wet Gas Flow Metering: Enhancing Generalisation in Digital Measurement Systems](https://www.sciencedirect.com/science/article/pii/S0955598625003383?via%3Dihub),” Flow Measurement and Instrumentation, p. 103146, 2025, doi: 10.1016/j.flowmeasinst.2025.103146.
 
-3. A. Núñez García, S. de la Fuente García, **E. Loweimi**, M. Masoodian, R. Vieira, A. Rodrigues, and S. Luz, “[A study protocol for assessing the effects of intangible cultural heritage experiences on human well-being](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336120),” PLOS ONE, Nov. 12, 2025, doi: 10.1371/journal.pone.0336120.
-
-4. Z. Yue, **E. Loweimi**, Z. Cvetkovic, J. Barker, and H. Christensen, “[Raw Acoustic-articulatory Multimodal Dysarthric Speech Recognition](https://www.sciencedirect.com/science/article/pii/S0885230825000646),” Computer Speech & Language, vol. 95, p. 101839, 2026, doi: 10.1016/j.csl.2025.101839
+4. A. Núñez García, S. de la Fuente García, **E. Loweimi**, M. Masoodian, R. Vieira, A. Rodrigues, and S. Luz, “[A study protocol for assessing the effects of intangible cultural heritage experiences on human well-being](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336120),” PLOS ONE, Nov. 12, 2025, doi: 10.1371/journal.pone.0336120.
 
 5. G. Wu, A. Haider, X. Tian, **E. Loweimi**, Ch-H.Chan, M. Qian, A. Muhammad, I. Spence, R. Cooper, W. Ng, J. Kittler, M. Gales and H. Wang, "[Multi-modal Video Search by Examples – A Video Quality Impact Analysis](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12303)", IET Computer Vision, pp. 1–17, 2024, doi: 10.1049/cvi2.12303.
 
