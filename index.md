@@ -18,7 +18,7 @@ I was a *Research Fellow in Machine Learning* at the Centre for Medical Informat
 I have also held post-doctoral research positions at:
 - [Machine Intelligence Laboratory](https://mi.eng.cam.ac.uk/), University of Cambridge (2022-2024)
 - King's College London (2021-2023)
-- [Centre for Speech Technology Research (CSTR)](https://www.cstr.ed.ac.uk/), School of Informatics, University of Edinburgh (2018-2021)
+- [Centre for Speech Technology Research (CSTR)](https://www.cstr.ed.ac.uk/), University of Edinburgh (2018-2021)
 
 <br>
 
