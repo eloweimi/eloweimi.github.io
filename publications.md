@@ -33,6 +33,11 @@ Modelling from Raw Source and Filter Components for Dysarthric Speech Recognitio
 
 ## Conferences ##
 
+1. Z. Yue, D. Kayande, Z. Cvetkovic, and **E. Loweimi**, [Probing Whisper for Dysarthric Speech in Detection and Assessment](), Accepted in ICASSP 2026.
+
+2. K. Fatehi, A. Shirian, **E. Loweimi**, [FINHUBERT: HIERARCHICAL FEATURE IMITATING NETWORKS FOR LOW-RESOURCE
+SPEECH RECOGNITION](), Accepted in ICASSP 2026. 
+
 1. **E. Loweimi**, S. De La Fonte Garcia, and S. Luz, [Zero-Shot Speech-Based Depression and Anxiety Assessment with LLMs](https://www.isca-archive.org/interspeech_2025/loweimi25_interspeech.pdf), INTERSPEECH, 2025.
   
 2. Z. Yue, M. Barberis, T. Patel, J. Dineley, W. Doedens, L. Stipdonk, Y.Y. Zhang, E. de Witte, **E. Loweimi**, H. Van hamme, D. Satoer, M. Ruiter, L. Moro-Velazquez, N. Cummins, O. Scharenborg, [Challenges and Practical Guidelines for Atypical Speech Data Collection, Annotation, Usage and Sharing: A Multi-project Perspective](https://www.isca-archive.org/interspeech_2025/yue25_interspeech.pdf), INTERSPEECH, 2025.
