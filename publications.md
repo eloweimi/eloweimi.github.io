@@ -24,7 +24,7 @@ title: ""
 7. **E. Loweimi**, Z. Yue, P. Bell, S. Renals, and Z. Cvetkovic, “[Multi-stream Acoustic
 Modelling using Raw Real and Imaginary Parts of the Fourier Transform](https://ieeexplore.ieee.org/abstract/document/10026604)”, IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 876-890, 2023, doi: 10.1109/TASLP.2023.3237167. &nbsp; [Preprint](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/193442046/Real_Imag_Journal_FINAL.pdf)
 
-8. Z. Yue **<sup>&#8224;</sup>, E. Loweimi <sup>&#8224;</sup>**, J. Barker, H. Christensen, and Z. Cvetkovic, “[Acoustic
+8. Z. Yue**<sup>&#8224;</sup>, E. Loweimi<sup>&#8224;</sup>**, J. Barker, H. Christensen, and Z. Cvetkovic, “[Acoustic
 Modelling from Raw Source and Filter Components for Dysarthric Speech Recognition](https://ieeexplore.ieee.org/document/9900378)”,
  IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 30, pp. 2968-2980, 2022, doi: 10.1109/TASLP.2022.3205766 (**<sup>&#8224;</sup>** Equal contribution). &nbsp; [Preprint](https://eprints.whiterose.ac.uk/192463/6/Journal_zhengjun_Erfan__source_filter_%20%289%29.pdf)
 
@@ -48,14 +48,14 @@ A Comparative Study of x-vector and ECAPA-TDNN Models](https://www.isca-archive.
 
 7. **E. Loweimi**, A. Carmantini, P. Bell, S. Renals, and Z. Cvetkovic, “[Phonetic Error Analysis of Raw Waveform Acoustic Models with Parametric and Non-Parametric CNNs](https://arxiv.org/abs/2406.00898)", arXiv, 2024.
 
-8. Z. Yue **<sup>&#8224;</sup>, E. Loweimi <sup>&#8224;</sup>**, and Z. Cvetkovic, “[Dysarthric Speech Recognition, Detection and Classification using Raw Phase and Magnitude Spectra](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2023/yue23_ISCA INTERSPEECH.html)“, ISCA INTERSPEECH, 2023 (**<sup>&#8224;</sup>** Equal contribution).
+8. Z. Yue**<sup>&#8224;</sup>, E. Loweimi<sup>&#8224;</sup>**, and Z. Cvetkovic, “[Dysarthric Speech Recognition, Detection and Classification using Raw Phase and Magnitude Spectra](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2023/yue23_ISCA INTERSPEECH.html)“, ISCA INTERSPEECH, 2023 (**<sup>&#8224;</sup>** Equal contribution).
 
-9. Z. Yue **<sup>&#8224;</sup>, E. Loweimi <sup>&#8224;</sup>**, J. Barker, H. Christensen, and Z. Cvetkovic, “[Dysarthric Speech Recognition from Raw Waveform with Parametric CNNs](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2022/yue22_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH,
+9. Z. Yue**<sup>&#8224;</sup>, E. Loweimi<sup>&#8224;</sup>**, J. Barker, H. Christensen, and Z. Cvetkovic, “[Dysarthric Speech Recognition from Raw Waveform with Parametric CNNs](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2022/yue22_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH,
 2022 (**<sup>&#8224;</sup>** Equal contribution).
 
 10. N. Shao, **E. Loweimi**, and X. Li, “[RCT: Random Consistency Training for Semisupervised Sound Event Detection](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2022/shao22_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2022.
 
-11. Z. Yue **<sup>&#8224;</sup>, E. Loweimi<sup>&#8224;</sup>**, and Z. Cvetkovic, “[Raw Source and Filter Modelling for Dysarthric Speech Recognition](https://ieeexplore.ieee.org/document/9746553)”, IEEE ICASSP, 2022 (**<sup>&#8224;</sup>** Equal contribution).
+11. Z. Yue**<sup>&#8224;</sup>, E. Loweimi<sup>&#8224;</sup>**, and Z. Cvetkovic, “[Raw Source and Filter Modelling for Dysarthric Speech Recognition](https://ieeexplore.ieee.org/document/9746553)”, IEEE ICASSP, 2022 (**<sup>&#8224;</sup>** Equal contribution).
 
 12. Z. Yue, **E. Loweimi**, Z. Cvetkovic, H. Christensen, and J. Barker, “[Multimodal Acoustic-Articulatory Feature Fusion for Dysarthric Speech Recognition](https://ieeexplore.ieee.org/document/9746855)”, IEEE ICASSP, 2022.
 
