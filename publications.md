@@ -24,7 +24,7 @@ title: ""
 7. **E. Loweimi**, Z. Yue, P. Bell, S. Renals, and Z. Cvetkovic, “[Multi-stream Acoustic
 Modelling using Raw Real and Imaginary Parts of the Fourier Transform](https://ieeexplore.ieee.org/abstract/document/10026604)”, IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 876-890, 2023, doi: 10.1109/TASLP.2023.3237167. &nbsp; [Preprint](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/193442046/Real_Imag_Journal_FINAL.pdf)
 
-8. Z. Yue**<sup>&#8224;</sup>, E. Loweimi<sup>&#8224;</sup>**, J. Barker, H. Christensen, and Z. Cvetkovic, “[Acoustic
+8. Z. Yue **<sup>&#8224;</sup>, E. Loweimi <sup>&#8224;</sup>**, J. Barker, H. Christensen, and Z. Cvetkovic, “[Acoustic
 Modelling from Raw Source and Filter Components for Dysarthric Speech Recognition](https://ieeexplore.ieee.org/document/9900378)”,
  IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 30, pp. 2968-2980, 2022, doi: 10.1109/TASLP.2022.3205766 (**<sup>&#8224;</sup>** Equal contribution). &nbsp; [Preprint](https://eprints.whiterose.ac.uk/192463/6/Journal_zhengjun_Erfan__source_filter_%20%289%29.pdf)
 
