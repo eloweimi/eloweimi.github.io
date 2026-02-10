@@ -37,7 +37,7 @@ Modelling from Raw Source and Filter Components for Dysarthric Speech Recognitio
 
 2. K. Fatehi, A. Shirian, and **E. Loweimi**, [FinHuBERT: Hierarchical Feature Imitating Networks for Low-Resource Speech Recognition](https://eloweimi.github.io/publications/), IEEE ICASSP, 2026 (Accepted). 
 
-3. **E. Loweimi**, S. De La Fonte Garcia, and S. Luz, [Zero-Shot Speech-Based Depression and Anxiety Assessment with LLMs](https://www.isca-archive.org/ISCA INTERSPEECH_2025/loweimi25_ISCA INTERSPEECH.pdf), ISCA INTERSPEECH, 2025.
+3. **E. Loweimi**, S. De La Fonte Garcia, and S. Luz, [Zero-Shot Speech-Based Depression and Anxiety Assessment with LLMs](https://www.isca-archive.org/interspeech_2025/loweimi25_interspeech.html), ISCA INTERSPEECH, 2025.
   
 4. Z. Yue, M. Barberis, T. Patel, J. Dineley, W. Doedens, L. Stipdonk, Y.Y. Zhang, E. de Witte, **E. Loweimi**, H. Van hamme, D. Satoer, M. Ruiter, L. Moro-Velazquez, N. Cummins, O. Scharenborg, [Challenges and Practical Guidelines for Atypical Speech Data Collection, Annotation, Usage and Sharing: A Multi-project Perspective](https://www.isca-archive.org/ISCA INTERSPEECH_2025/yue25_ISCA INTERSPEECH.pdf), ISCA INTERSPEECH, 2025.
 
