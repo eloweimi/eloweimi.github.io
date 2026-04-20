@@ -121,4 +121,4 @@ Notes in Computer Science, vol. 7911 LNAI, 2013.
 
 42. **E. Loweimi** and S.M. Ahadi, "[Objective Evaluation of Phase and Magnitude only Reconstructed Speech: New Considerations](https://ieeexplore.ieee.org/document/5605496)", IEEE ISSPA, 2010.
 
-42. **E. Loweimi** and S.M. Ahadi, “[Objective Evaluation of Magnitude and Phase only Spectrum-based Reconstruction of the Speech Signal](https://ieeexplore.ieee.org/document/5463311)”, IEEE ISCCSP, 2010.
+41. **E. Loweimi** and S.M. Ahadi, “[Objective Evaluation of Magnitude and Phase only Spectrum-based Reconstruction of the Speech Signal](https://ieeexplore.ieee.org/document/5463311)”, IEEE ISCCSP, 2010.
