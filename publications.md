@@ -44,7 +44,7 @@ Modelling from Raw Source and Filter Components for Dysarthric Speech Recognitio
 5. Z. Yue, M. Barberis, T. Patel, J. Dineley, W. Doedens, L. Stipdonk, Y.Y. Zhang, E. de Witte, **E. Loweimi**, H. Van hamme, D. Satoer, M. Ruiter, L. Moro-Velazquez, N. Cummins, O. Scharenborg, [Challenges and Practical Guidelines for Atypical Speech Data Collection, Annotation, Usage and Sharing: A Multi-project Perspective](https://www.isca-archive.org/ISCA INTERSPEECH_2025/yue25_ISCA INTERSPEECH.pdf), ISCA INTERSPEECH, 2025.
 
 6. **E. Loweimi**, M. Qian, K. Knill, and M. Gales, [On the Usefulness of Speaker Embeddings for Speaker Retrieval in the Wild:
-A Comparative Study of x-vector and ECAPA-TDNN Models](https://www.isca-archive.org/ISCA INTERSPEECH_2024/loweimi24_ISCA INTERSPEECH.html), ISCA INTERSPEECH, 2024.
+A Comparative Study of x-vector and ECAPA-TDNN Models](https://www.isca-archive.org/interspeech_2024/loweimi24_interspeech.html), ISCA INTERSPEECH, 2024.
 
 7. M. Qian, R. Ma, A. Liusie, **E. Loweimi**, K. Knill, and M. Gales, [Zero-shot Audio Topic Reranking using Large Language Models](https://arxiv.org/pdf/2309.07606), IEEE SLT, 2024.
 
