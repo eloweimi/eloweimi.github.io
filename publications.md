@@ -35,9 +35,9 @@ Modelling from Raw Source and Filter Components for Dysarthric Speech Recognitio
 
 1. **E. Loweimi**, S. De La Fonte Garcia, and S. Luz, [Predicting Psychological Well-Being from Spontaneous Speech using LLMs](https://eloweimi.github.io/publications/), IEEE EMBC, 2026 (Accepted).
 
-2. Z. Yue, D. Kayande, Z. Cvetkovic, and **E. Loweimi**, [Probing Whisper for Dysarthric Speech in Detection and Assessment](https://arxiv.org/abs/2510.04219),  IEEE ICASSP, 2026 (Accepted).
+2. Z. Yue, D. Kayande, Z. Cvetkovic, and **E. Loweimi**, [Probing Whisper for Dysarthric Speech in Detection and Assessment](https://arxiv.org/abs/2510.04219),  IEEE ICASSP, 2026.
 
-3. K. Fatehi, A. Shirian, and **E. Loweimi**, [FinHuBERT: Hierarchical Feature Imitating Networks for Low-Resource Speech Recognition](https://eloweimi.github.io/publications/), IEEE ICASSP, 2026 (Accepted). 
+3. K. Fatehi, A. Shirian, and **E. Loweimi**, [FinHuBERT: Hierarchical Feature Imitating Networks for Low-Resource Speech Recognition](https://eloweimi.github.io/publications/), IEEE ICASSP, 2026. 
 
 4. **E. Loweimi**, S. De La Fonte Garcia, and S. Luz, [Zero-Shot Speech-Based Depression and Anxiety Assessment with LLMs](https://www.isca-archive.org/interspeech_2025/loweimi25_interspeech.html), ISCA INTERSPEECH, 2025.
   
