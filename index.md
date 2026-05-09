@@ -32,7 +32,7 @@ I have also held post-doctoral research positions at:
 
 I completed my PhD in 2018 at [Speech and Hearing Research Group (SPandH)](https://www.sheffield.ac.uk/dcs/research/groups/spandh), University of Sheffield. &nbsp; [MyThesis](https://etheses.whiterose.ac.uk/19409/)
 
-I received my MSc from Amirkabir University of Technology ([Tehran Polytechnic](https://aut.ac.ir/en)) and my BSc from [Shahid Chamran University of Ahvaz](https://scu.ac.ir/en/).
+<!--I received my MSc from Amirkabir University of Technology ([Tehran Polytechnic](https://aut.ac.ir/en)) and my BSc from [Shahid Chamran University of Ahvaz](https://scu.ac.ir/en/). -->
 
 
 
