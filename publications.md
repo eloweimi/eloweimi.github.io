@@ -35,90 +35,93 @@ Modelling from Raw Source and Filter Components for Dysarthric Speech Recognitio
 
 1. **E. Loweimi**, S. De La Fonte Garcia, and S. Luz, [Predicting Psychological Well-Being from Spontaneous Speech using LLMs](https://arxiv.org/abs/2605.11303), IEEE EMBC, 2026 (Accepted).
 
-2. Z. Yue, D. Kayande, Z. Cvetkovic, and **E. Loweimi**, [Probing Whisper for Dysarthric Speech in Detection and Assessment](https://ieeexplore.ieee.org/abstract/document/11464429),  IEEE ICASSP, 2026.
+2. **E. Loweimi**, S. De La Fonte Garcia, Samira Loveymi, Hadi Daneshvar, and S. Luz, [Can We Trust LLMs for Mental Health Screening? Consistency, ASR Robustness, and Evidence Faithfulness
+](https://arxiv.org/abs/2605.09634), arXiv, 2026.
 
-3. K. Fatehi, A. Shirian, and **E. Loweimi**, [FinHuBERT: Hierarchical Feature Imitating Networks for Low-Resource Speech Recognition](https://ieeexplore.ieee.org/abstract/document/11464914), IEEE ICASSP, 2026. 
+4. Z. Yue, D. Kayande, Z. Cvetkovic, and **E. Loweimi**, [Probing Whisper for Dysarthric Speech in Detection and Assessment](https://ieeexplore.ieee.org/abstract/document/11464429),  IEEE ICASSP, 2026.
 
-4. **E. Loweimi**, S. De La Fonte Garcia, and S. Luz, [Zero-Shot Speech-Based Depression and Anxiety Assessment with LLMs](https://www.isca-archive.org/interspeech_2025/loweimi25_interspeech.html), ISCA INTERSPEECH, 2025.
+5. K. Fatehi, A. Shirian, and **E. Loweimi**, [FinHuBERT: Hierarchical Feature Imitating Networks for Low-Resource Speech Recognition](https://ieeexplore.ieee.org/abstract/document/11464914), IEEE ICASSP, 2026. 
+
+6. **E. Loweimi**, S. De La Fonte Garcia, and S. Luz, [Zero-Shot Speech-Based Depression and Anxiety Assessment with LLMs](https://www.isca-archive.org/interspeech_2025/loweimi25_interspeech.html), ISCA INTERSPEECH, 2025.
   
-5. Z. Yue, M. Barberis, T. Patel, J. Dineley, W. Doedens, L. Stipdonk, Y.Y. Zhang, E. de Witte, **E. Loweimi**, H. Van hamme, D. Satoer, M. Ruiter, L. Moro-Velazquez, N. Cummins, O. Scharenborg, [Challenges and Practical Guidelines for Atypical Speech Data Collection, Annotation, Usage and Sharing: A Multi-project Perspective](https://www.isca-archive.org/ISCA INTERSPEECH_2025/yue25_ISCA INTERSPEECH.pdf), ISCA INTERSPEECH, 2025.
+7. Z. Yue, M. Barberis, T. Patel, J. Dineley, W. Doedens, L. Stipdonk, Y.Y. Zhang, E. de Witte, **E. Loweimi**, H. Van hamme, D. Satoer, M. Ruiter, L. Moro-Velazquez, N. Cummins, O. Scharenborg, [Challenges and Practical Guidelines for Atypical Speech Data Collection, Annotation, Usage and Sharing: A Multi-project Perspective](https://www.isca-archive.org/ISCA INTERSPEECH_2025/yue25_ISCA INTERSPEECH.pdf), ISCA INTERSPEECH, 2025.
 
-6. **E. Loweimi**, M. Qian, K. Knill, and M. Gales, [On the Usefulness of Speaker Embeddings for Speaker Retrieval in the Wild:
+8. **E. Loweimi**, M. Qian, K. Knill, and M. Gales, [On the Usefulness of Speaker Embeddings for Speaker Retrieval in the Wild:
 A Comparative Study of x-vector and ECAPA-TDNN Models](https://www.isca-archive.org/interspeech_2024/loweimi24_interspeech.html), ISCA INTERSPEECH, 2024.
 
-7. M. Qian, R. Ma, A. Liusie, **E. Loweimi**, K. Knill, and M. Gales, [Zero-shot Audio Topic Reranking using Large Language Models](https://arxiv.org/pdf/2309.07606), IEEE SLT, 2024.
+9. M. Qian, R. Ma, A. Liusie, **E. Loweimi**, K. Knill, and M. Gales, [Zero-shot Audio Topic Reranking using Large Language Models](https://arxiv.org/pdf/2309.07606), IEEE SLT, 2024.
 
-8. **E. Loweimi**, A. Carmantini, P. Bell, S. Renals, and Z. Cvetkovic, “[Phonetic Error Analysis of Raw Waveform Acoustic Models with Parametric and Non-Parametric CNNs](https://arxiv.org/abs/2406.00898)", arXiv, 2024.
+10. **E. Loweimi**, A. Carmantini, P. Bell, S. Renals, and Z. Cvetkovic, “[Phonetic Error Analysis of Raw Waveform Acoustic Models with Parametric and Non-Parametric CNNs](https://arxiv.org/abs/2406.00898)", arXiv, 2024.
 
-9. Z. Yue **<sup>&#8224;</sup>, E. Loweimi <sup>&#8224;</sup>**, and Z. Cvetkovic, “[Dysarthric Speech Recognition, Detection and Classification using Raw Phase and Magnitude Spectra](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2023/yue23_ISCA INTERSPEECH.html)“, ISCA INTERSPEECH, 2023 (**<sup>&#8224;</sup>** Equal contribution).
+11. Z. Yue **<sup>&#8224;</sup>, E. Loweimi <sup>&#8224;</sup>**, and Z. Cvetkovic, “[Dysarthric Speech Recognition, Detection and Classification using Raw Phase and Magnitude Spectra](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2023/yue23_ISCA INTERSPEECH.html)“, ISCA INTERSPEECH, 2023 (**<sup>&#8224;</sup>** Equal contribution).
 
-10. Z. Yue **<sup>&#8224;</sup>, E. Loweimi <sup>&#8224;</sup>**, J. Barker, H. Christensen, and Z. Cvetkovic, “[Dysarthric Speech Recognition from Raw Waveform with Parametric CNNs](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2022/yue22_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH,
+12. Z. Yue **<sup>&#8224;</sup>, E. Loweimi <sup>&#8224;</sup>**, J. Barker, H. Christensen, and Z. Cvetkovic, “[Dysarthric Speech Recognition from Raw Waveform with Parametric CNNs](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2022/yue22_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH,
 2022 (**<sup>&#8224;</sup>** Equal contribution).
 
-11. N. Shao, **E. Loweimi**, and X. Li, “[RCT: Random Consistency Training for Semisupervised Sound Event Detection](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2022/shao22_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2022.
+13. N. Shao, **E. Loweimi**, and X. Li, “[RCT: Random Consistency Training for Semisupervised Sound Event Detection](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2022/shao22_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2022.
 
-12. Z. Yue **<sup>&#8224;</sup>, E. Loweimi <sup>&#8224;</sup>**, and Z. Cvetkovic, “[Raw Source and Filter Modelling for Dysarthric Speech Recognition](https://ieeexplore.ieee.org/document/9746553)”, IEEE ICASSP, 2022 (**<sup>&#8224;</sup>** Equal contribution).
+14. Z. Yue **<sup>&#8224;</sup>, E. Loweimi <sup>&#8224;</sup>**, and Z. Cvetkovic, “[Raw Source and Filter Modelling for Dysarthric Speech Recognition](https://ieeexplore.ieee.org/document/9746553)”, IEEE ICASSP, 2022 (**<sup>&#8224;</sup>** Equal contribution).
 
-13. Z. Yue, **E. Loweimi**, Z. Cvetkovic, H. Christensen, and J. Barker, “[Multimodal Acoustic-Articulatory Feature Fusion for Dysarthric Speech Recognition](https://ieeexplore.ieee.org/document/9746855)”, IEEE ICASSP, 2022.
+15. Z. Yue, **E. Loweimi**, Z. Cvetkovic, H. Christensen, and J. Barker, “[Multimodal Acoustic-Articulatory Feature Fusion for Dysarthric Speech Recognition](https://ieeexplore.ieee.org/document/9746855)”, IEEE ICASSP, 2022.
 
-14. **E. Loweimi**, P. Bell, and S. Renals, “[Speech Acoustic Modelling using Raw Source and Filter Components](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2021/loweimi21_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2021.
+16. **E. Loweimi**, P. Bell, and S. Renals, “[Speech Acoustic Modelling using Raw Source and Filter Components](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2021/loweimi21_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2021.
 
-15. S. Zhang, **E. Loweimi**, P. Bell, and S. Renals, “[Stochastic Attention Head Removal: A Simple and Effective Method for Improving Transformer Based ASR
+17. S. Zhang, **E. Loweimi**, P. Bell, and S. Renals, “[Stochastic Attention Head Removal: A Simple and Effective Method for Improving Transformer Based ASR
 Models](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2021/zhang21p_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2021.
 
-16. **E. Loweimi**, Z. Cvetkovic, P. Bell, and S. Renals, “[Speech Acoustic Modelling from Raw Phase Spectrum](https://ieeexplore.ieee.org/document/9413727)”, IEEE ICASSP, 2021.
+18. **E. Loweimi**, Z. Cvetkovic, P. Bell, and S. Renals, “[Speech Acoustic Modelling from Raw Phase Spectrum](https://ieeexplore.ieee.org/document/9413727)”, IEEE ICASSP, 2021.
 
-17. S. Zhang, C-T. Do, R. Doddipatla, **E. Loweimi**, P. Bell, and S. Renals, “[Train Your Classifier First: Cascade Neural Networks Training from Upper Layers to Lower Layers](https://ieeexplore.ieee.org/document/9413565)”, IEEE ICASSP, 2021.
+19. S. Zhang, C-T. Do, R. Doddipatla, **E. Loweimi**, P. Bell, and S. Renals, “[Train Your Classifier First: Cascade Neural Networks Training from Upper Layers to Lower Layers](https://ieeexplore.ieee.org/document/9413565)”, IEEE ICASSP, 2021.
 
-18. **E. Loweimi**, P. Bell, and S. Renals, “[Raw Sign and Magnitude Spectra for Multihead Acoustic Modelling](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2020/loweimi20b_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2020.
+20. **E. Loweimi**, P. Bell, and S. Renals, “[Raw Sign and Magnitude Spectra for Multihead Acoustic Modelling](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2020/loweimi20b_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2020.
 
-19. **E. Loweimi**, P. Bell, and S. Renals, “[On the Robustness and Training Dynamics of Raw Waveform Models](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2020/loweimi20_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2020.
+21. **E. Loweimi**, P. Bell, and S. Renals, “[On the Robustness and Training Dynamics of Raw Waveform Models](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2020/loweimi20_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2020.
 
-20. S. Zhang, **E. Loweimi**, P. Bell, and S. Renals, “[On The Usefulness of Self-Attention for Automatic Speech Recognition with Transformers](https://ieeexplore.ieee.org/abstract/document/9383521)”, IEEE SLT, 2020.
+22. S. Zhang, **E. Loweimi**, P. Bell, and S. Renals, “[On The Usefulness of Self-Attention for Automatic Speech Recognition with Transformers](https://ieeexplore.ieee.org/abstract/document/9383521)”, IEEE SLT, 2020.
 
-21. J. Fainberg, O. Klejch, **E. Loweimi**, P. Bell, and S. Renals, “[Acoustic Model Adaptation from Raw Waveforms with SincNet](https://ieeexplore.ieee.org/document/9003974)”, IEEE ASRU, 2019.
+23. J. Fainberg, O. Klejch, **E. Loweimi**, P. Bell, and S. Renals, “[Acoustic Model Adaptation from Raw Waveforms with SincNet](https://ieeexplore.ieee.org/document/9003974)”, IEEE ASRU, 2019.
 
-22. **E. Loweimi**, P. Bell, and S. Renals, “[On Learning Interpretable CNNs with Parametric Modulated Kernel-based Filters](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2019/loweimi19_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2019.
+24. **E. Loweimi**, P. Bell, and S. Renals, “[On Learning Interpretable CNNs with Parametric Modulated Kernel-based Filters](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2019/loweimi19_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2019.
     
-23. S. Zhang, **E. Loweimi**, Y. Xu, P. Bell, and S. Renals “[Trainable Dynamic Subsampling for End-to-End Speech Recognition](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2019/zhang19d_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2019.
+25. S. Zhang, **E. Loweimi**, Y. Xu, P. Bell, and S. Renals “[Trainable Dynamic Subsampling for End-to-End Speech Recognition](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2019/zhang19d_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2019.
 
-24. M.A. Jalal, **E. Loweimi**, R. Moore, and T. Hain, “[Learning Temporal Clusters Using Capsule Routing for Speech Emotion Recognition](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2019/jalal19_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2019.
+26. M.A. Jalal, **E. Loweimi**, R. Moore, and T. Hain, “[Learning Temporal Clusters Using Capsule Routing for Speech Emotion Recognition](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2019/jalal19_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2019.
 
-25. **E. Loweimi**, P. Bell, and S. Renals, “[On the Usefulness of Statistical Normalisation of Bottleneck Features for Speech Recognition](https://ieeexplore.ieee.org/document/8683330)”, IEEE ICASSP, 2019.
+27. **E. Loweimi**, P. Bell, and S. Renals, “[On the Usefulness of Statistical Normalisation of Bottleneck Features for Speech Recognition](https://ieeexplore.ieee.org/document/8683330)”, IEEE ICASSP, 2019.
 
-26. S. Zhang, **E. Loweimi**, P. Bell, and S. Renals, “[Windowed Attention Mechanisms for Speech Recognition](https://ieeexplore.ieee.org/document/8682224)”, IEEE ICASSP, 2019.
+28. S. Zhang, **E. Loweimi**, P. Bell, and S. Renals, “[Windowed Attention Mechanisms for Speech Recognition](https://ieeexplore.ieee.org/document/8682224)”, IEEE ICASSP, 2019.
 
-27. **E. Loweimi**, J. Barker, and T. Hain, “[On the Usefulness of the Speech Phase Spectrum for Pitch Extraction](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2018/loweimi18_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2018.
+29. **E. Loweimi**, J. Barker, and T. Hain, “[On the Usefulness of the Speech Phase Spectrum for Pitch Extraction](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2018/loweimi18_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2018.
 
-28. **E. Loweimi**, J. Barker, and T. Hain, “[Exploring the use of Group Delay for Generalised VTS based Noise Compensation](https://ieeexplore.ieee.org/document/8462595)”, IEEE ICASSP, 2018.
+30. **E. Loweimi**, J. Barker, and T. Hain, “[Exploring the use of Group Delay for Generalised VTS based Noise Compensation](https://ieeexplore.ieee.org/document/8462595)”, IEEE ICASSP, 2018.
 
-29. **E. Loweimi**, J. Barker, and T. Hain, “[Channel Compensation in the Generalised Vector Taylor Series Approach to Robust ASR](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2017/loweimi17b_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2017.
+31. **E. Loweimi**, J. Barker, and T. Hain, “[Channel Compensation in the Generalised Vector Taylor Series Approach to Robust ASR](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2017/loweimi17b_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2017.
 
-30. **E. Loweimi**, J. Barker, O. Saz Torralba, and T. Hain, “[Robust Source-Filter Separation of Speech Signal in the Phase Domain](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2017/loweimi17_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2017.
+32. **E. Loweimi**, J. Barker, O. Saz Torralba, and T. Hain, “[Robust Source-Filter Separation of Speech Signal in the Phase Domain](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2017/loweimi17_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2017.
 
-31. **E. Loweimi**, J. Barker, and T. Hain, “[Statistical Normalisation of Phase-based Feature Representation for Robust Speech Recognition](https://ieeexplore.ieee.org/document/7953170)”, IEEE ICASSP, 2017.
+33. **E. Loweimi**, J. Barker, and T. Hain, “[Statistical Normalisation of Phase-based Feature Representation for Robust Speech Recognition](https://ieeexplore.ieee.org/document/7953170)”, IEEE ICASSP, 2017.
 
-32. **E. Loweimi**, J. Barker, and T. Hain, “[Use of Generalised Nonlinearity in VTS Noise Compensation for Robust Speech Recognition](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2016/loweimi16_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2016.
+34. **E. Loweimi**, J. Barker, and T. Hain, “[Use of Generalised Nonlinearity in VTS Noise Compensation for Robust Speech Recognition](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2016/loweimi16_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2016.
 
-33. **E. Loweimi**, J. Barker, and T. Hain, “[Source-filter Separation of Speech Signal in the Phase Domain](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2015/loweimi15_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2015.
+35. **E. Loweimi**, J. Barker, and T. Hain, “[Source-filter Separation of Speech Signal in the Phase Domain](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2015/loweimi15_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2015.
 
-34. **E. Loweimi**, M. Doulaty, J. Barker, and T. Hain, “[Long-term statistical Feature Extraction from Speech Signal and its Application in Emotion Recognition](https://link.springer.com/chapter/10.1007/978-3-319-25789-1_17)”, Statistical Language and Speech Processing (SLSP), 2015.
+36. **E. Loweimi**, M. Doulaty, J. Barker, and T. Hain, “[Long-term statistical Feature Extraction from Speech Signal and its Application in Emotion Recognition](https://link.springer.com/chapter/10.1007/978-3-319-25789-1_17)”, Statistical Language and Speech Processing (SLSP), 2015.
 
-35. **E. Loweimi**, M. Doulaty, J. Barker, and T. Hain, "[Emotion Recognition from the Speech Signal by Effective Combination of Generative and Discriminative Models](https://eprints.whiterose.ac.uk/103952/)", USES, 2015. 
+37. **E. Loweimi**, M. Doulaty, J. Barker, and T. Hain, "[Emotion Recognition from the Speech Signal by Effective Combination of Generative and Discriminative Models](https://eprints.whiterose.ac.uk/103952/)", USES, 2015. 
 
-36. **E. Loweimi**, J. Barker, and T. Hain, "[Compression of Model-based Group Delay Function for Robust Speech Recognition](https://eprints.whiterose.ac.uk/85055/)", USES, 2014. 
+38. **E. Loweimi**, J. Barker, and T. Hain, "[Compression of Model-based Group Delay Function for Robust Speech Recognition](https://eprints.whiterose.ac.uk/85055/)", USES, 2014. 
 
-37. **E. Loweimi**, S.M. Ahadi, and T. Drugman, “[A New Phase-based Feature Representation for Robust Speech Recognition](https://ieeexplore.ieee.org/document/6639051)”, IEEE ICASSP, 2013.
+39. **E. Loweimi**, S.M. Ahadi, and T. Drugman, “[A New Phase-based Feature Representation for Robust Speech Recognition](https://ieeexplore.ieee.org/document/6639051)”, IEEE ICASSP, 2013.
 
-38. **E. Loweimi**, S.M. Ahadi, T. Drugman, and S. Loveymi, “[On the Importance of Pre-emphasis and Window Shape in Phase-based Speech Recognition](https://link.springer.com/chapter/10.1007/978-3-642-38847-7_21)”, Lecture
+40. **E. Loweimi**, S.M. Ahadi, T. Drugman, and S. Loveymi, “[On the Importance of Pre-emphasis and Window Shape in Phase-based Speech Recognition](https://link.springer.com/chapter/10.1007/978-3-642-38847-7_21)”, Lecture
 Notes in Computer Science, vol. 7911 LNAI, 2013.
 
-39. **E. Loweimi**, S.M. Ahadi, and H. Sheikhzadeh, “[Phase-only Speech Reconstruction Using Very Short Frames](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2011/loweimi11_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2011.
+41. **E. Loweimi**, S.M. Ahadi, and H. Sheikhzadeh, “[Phase-only Speech Reconstruction Using Very Short Frames](https://www.isca-speech.org/archive/ISCA INTERSPEECH_2011/loweimi11_ISCA INTERSPEECH.html)”, ISCA INTERSPEECH, 2011.
 
-40. **E. Loweimi** and S.M. Ahadi, “[A New Group Delay-based Feature for Robust Speech Recognition](https://ieeexplore.ieee.org/document/6011884)”, IEEE ICME, 2011.
+42. **E. Loweimi** and S.M. Ahadi, “[A New Group Delay-based Feature for Robust Speech Recognition](https://ieeexplore.ieee.org/document/6011884)”, IEEE ICME, 2011.
 
-41. **E. Loweimi**, S.M. Ahadi, and S. Loveymi, “[On the Importance of Phase and Magnitude Spectra in Speech Enhancement](https://ieeexplore.ieee.org/document/5955843)”, IEEE ICEE, 2011 ([PDF](/files/others/ICEE2011.pdf)). 
+43. **E. Loweimi**, S.M. Ahadi, and S. Loveymi, “[On the Importance of Phase and Magnitude Spectra in Speech Enhancement](https://ieeexplore.ieee.org/document/5955843)”, IEEE ICEE, 2011 ([PDF](/files/others/ICEE2011.pdf)). 
 
-42. **E. Loweimi** and S.M. Ahadi, "[Objective Evaluation of Phase and Magnitude only Reconstructed Speech: New Considerations](https://ieeexplore.ieee.org/document/5605496)", IEEE ISSPA, 2010.
+44. **E. Loweimi** and S.M. Ahadi, "[Objective Evaluation of Phase and Magnitude only Reconstructed Speech: New Considerations](https://ieeexplore.ieee.org/document/5605496)", IEEE ISSPA, 2010.
 
-43. **E. Loweimi** and S.M. Ahadi, “[Objective Evaluation of Magnitude and Phase only Spectrum-based Reconstruction of the Speech Signal](https://ieeexplore.ieee.org/document/5463311)”, IEEE ISCCSP, 2010.
+45. **E. Loweimi** and S.M. Ahadi, “[Objective Evaluation of Magnitude and Phase only Spectrum-based Reconstruction of the Speech Signal](https://ieeexplore.ieee.org/document/5463311)”, IEEE ISCCSP, 2010.
