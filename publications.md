@@ -33,7 +33,7 @@ Modelling from Raw Source and Filter Components for Dysarthric Speech Recognitio
 
 ## Conferences ##
 
-1. **E. Loweimi**, M. Qian, K. Knill, G. Wu, C-H. Chan, A. Haider, M. Awan, J. Kittler, H. Wang, and M. Gales, [To Be Multimodal or Not to Be: Query-Adaptive Audio-Visual Person Retrieval via Active Modality Detection](https://eloweimi.github.io/publications/), ISCA INTERSPEECH, 2026 (Accepted).
+1. **E. Loweimi**, M. Qian, K. Knill, G. Wu, C-H. Chan, A. Haider, M. Awan, J. Kittler, H. Wang, and M. Gales, [To Be Multimodal or Not to Be: Query-Adaptive Audio-Visual Person Retrieval via Active Modality Detection](https://arxiv.org/abs/2606.05931), ISCA INTERSPEECH, 2026 (Accepted).
 
 2. **E. Loweimi**, Z. Yue, A. Carmantini, Z. Cvetkovic, S. Renals, and P. Bell, [Phonetic Error Analysis of Raw Waveform Acoustic Models](https://eloweimi.github.io/publications/), ISCA INTERSPEECH, 2026 (Accepted).
 
