@@ -37,7 +37,7 @@ Modelling from Raw Source and Filter Components for Dysarthric Speech Recognitio
 
 2. **E. Loweimi**, Z. Yue, A. Carmantini, Z. Cvetkovic, S. Renals, and P. Bell, [Phonetic Error Analysis of Raw Waveform Acoustic Models](https://arxiv.org/abs/2606.07030), ISCA INTERSPEECH, 2026 (Accepted).
 
-3. X. Wu, Z. Yue, **E. Loweimi**, and J. Williams, [Towards Dys-XAI: Influence-Based Explanations for Dysarthria Severity Assessment](https://eloweimi.github.io/publications/), ISCA INTERSPEECH, 2026 (Accepted).
+3. X. Wu, Q. Sun, Y. Li, **E. Loweimi**, and J. Williams, Z. Yue, [Towards Dys-XAI: Influence-Based Explanations for Dysarthria Severity Assessment](https://arxiv.org/pdf/2606.21306), ISCA INTERSPEECH, 2026 (Accepted).
 
 4. **E. Loweimi**, S. De La Fonte Garcia, and S. Luz, [Predicting Psychological Well-Being from Spontaneous Speech using LLMs](https://arxiv.org/abs/2605.11303), IEEE EMBC, 2026 (Accepted).
 
