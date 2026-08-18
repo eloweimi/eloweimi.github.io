@@ -7,7 +7,7 @@ title: ""
 
 * #### Elected Member of IEEE Speech and Language Processing Technical Committee (SLTC) (2027-2029)
 * #### Publication Chair, IEEE International Conference on Audio, Speech, and Language Intelligence (ASLI), 2027
-* #### Associate Member of IEEE Speech and Language Processing Technical Committee (SLTC) (2023-2026)
+<!--* #### Associate Member of IEEE Speech and Language Processing Technical Committee (SLTC) (2023-2026)-->
 * #### Area Chair (Meta Reviewer), ICASSP 2026
 * #### Lead Area Chair (Speech Recognition), INTERSPEECH 2025
 * #### Area Chair (Meta Reviewer), ICASSP 2025
