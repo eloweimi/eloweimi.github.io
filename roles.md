@@ -6,6 +6,7 @@ title: ""
 <br>
 
 * #### Elected Member of IEEE Speech and Language Processing Technical Committee (SLTC) (2027-2029)
+* #### Low-Resource Audio Codec ([LRAC](https://crowdsourcing.cisco.com/lrac-challenge/2026/)) 2.0 Challenge Organizing Committee, Signal Processing Grand Challenge, ICASSP 2027
 * #### Publication Chair, IEEE International Conference on Audio, Speech, and Language Intelligence (ASLI), 2027
 <!--* #### Associate Member of IEEE Speech and Language Processing Technical Committee (SLTC) (2023-2026)-->
 * #### Area Chair (Meta Reviewer), ICASSP 2026
