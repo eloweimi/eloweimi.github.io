@@ -33,13 +33,13 @@ Modelling from Raw Source and Filter Components for Dysarthric Speech Recognitio
 
 ## Conferences ##
 
-1. **E. Loweimi**, M. Qian, K. Knill, G. Wu, C-H. Chan, A. Haider, M. Awan, J. Kittler, H. Wang, and M. Gales, [To Be Multimodal or Not to Be: Query-Adaptive Audio-Visual Person Retrieval via Active Modality Detection](https://arxiv.org/abs/2606.05931), ISCA INTERSPEECH, 2026 (Accepted).
+1. **E. Loweimi**, M. Qian, K. Knill, G. Wu, C-H. Chan, A. Haider, M. Awan, J. Kittler, H. Wang, and M. Gales, [To Be Multimodal or Not to Be: Query-Adaptive Audio-Visual Person Retrieval via Active Modality Detection](https://www.isca-archive.org/interspeech_2026/loweimi26_interspeech.html), ISCA INTERSPEECH, 2026.
 
-2. **E. Loweimi**, Z. Yue, A. Carmantini, Z. Cvetkovic, S. Renals, and P. Bell, [Phonetic Error Analysis of Raw Waveform Acoustic Models](https://arxiv.org/abs/2606.07030), ISCA INTERSPEECH, 2026 (Accepted).
+2. **E. Loweimi**, Z. Yue, A. Carmantini, Z. Cvetkovic, S. Renals, and P. Bell, [Phonetic Error Analysis of Raw Waveform Acoustic Models](https://www.isca-archive.org/interspeech_2026/loweimi26b_interspeech.html), ISCA INTERSPEECH, 2026.
 
-3. X. Wu, Q. Sun, Y. Li, **E. Loweimi**, J. Williams, and Z. Yue, [Towards Dys-XAI: Influence-Based Explanations for Dysarthria Severity Assessment](https://arxiv.org/pdf/2606.21306), ISCA INTERSPEECH, 2026 (Accepted).
+3. X. Wu, Q. Sun, Y. Li, **E. Loweimi**, J. Williams, and Z. Yue, [Towards Dys-XAI: Influence-Based Explanations for Dysarthria Severity Assessment](https://www.isca-archive.org/interspeech_2026/wu26b_interspeech.html), ISCA INTERSPEECH, 2026.
 
-4. **E. Loweimi**, S. De La Fonte Garcia, and S. Luz, [Predicting Psychological Well-Being from Spontaneous Speech using LLMs](https://arxiv.org/abs/2605.11303), IEEE EMBC, 2026 (Accepted).
+4. **E. Loweimi**, S. De La Fonte Garcia, and S. Luz, [Predicting Psychological Well-Being from Spontaneous Speech using LLMs](https://arxiv.org/abs/2605.11303), IEEE EMBC, 2026.
 
 5. **E. Loweimi**, S. De La Fonte Garcia, Samira Loveymi, Hadi Daneshvar, and S. Luz, [Can We Trust LLMs for Mental Health Screening? Consistency, ASR Robustness, and Evidence Faithfulness
 ](https://arxiv.org/abs/2605.09634), arXiv, 2026.
