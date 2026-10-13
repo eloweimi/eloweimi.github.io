@@ -11,7 +11,7 @@ title: ""
 ## Journals ##
 1. **E. Loweimi**, H. Daneshvar, S. Loveymi, S. Ouelha, Z. Yue, H. Mozaffar, and S. Luz, “[A Tutorial on Prompt Engineering: From Messy Thoughts to AI Workflows](https://arxiv.org/abs/2609.22249),” Under Review.
 
-2. E. Loweimi <sup>&#8224;</sup>**, Z. Yue **<sup>&#8224;</sup>, and Z. Cvetkovic, “[Deep Scattering Spectrum for Dysarthric Speech Recognition, Detection and Classification](https://eloweimi.github.io/publications/),” Computer Speech & Language, 2027 (Accepted). (**<sup>&#8224;</sup>** Equal contribution)
+2. E. Loweimi <sup>&#8224;</sup>**, Z. Yue <sup>&#8224;</sup>**, and Z. Cvetkovic, “[Deep Scattering Spectrum for Dysarthric Speech Recognition, Detection and Classification](https://eloweimi.github.io/publications/),” Computer Speech & Language, 2027 (Accepted). (**<sup>&#8224;</sup>** Equal contribution)
 
 3. Z. Yue, **E. Loweimi**, Z. Cvetkovic, J. Barker, and H. Christensen, “[Raw Acoustic-articulatory Multimodal Dysarthric Speech Recognition](https://www.sciencedirect.com/science/article/pii/S0885230825000646),” Computer Speech & Language, vol. 95, p. 101839, 2026, doi: 10.1016/j.csl.2025.101839
   
