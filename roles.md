@@ -4,7 +4,7 @@ title: ""
 ---
 
 <br>
-
+* #### Lead Area Chair (Speech Recognition), INTERSPEECH 2027
 * #### Elected Member of IEEE Speech and Language Processing Technical Committee (SLTC) (2027-2029)
 * #### Area Chair (Meta Reviewer), ICASSP 2027
 * #### Publication Chair, IEEE International Conference on Audio, Speech, and Language Intelligence (ASLI), 2027
