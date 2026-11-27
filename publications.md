@@ -9,9 +9,12 @@ title: ""
 <br>
 
 ## Journals ##
-1. **E. Loweimi**<sup>&#8224;</sup>, Z. Yue<sup>&#8224;</sup>, and Z. Cvetkovic, “[Deep Scattering Spectrum for Dysarthric Speech Recognition, Detection and Classification](https://www.sciencedirect.com/science/article/pii/S0885230826001245?dgcid=coauthor),” Computer Speech & Language, vol. 103, Art. no. 102061, 2027, doi: 10.1016/j.csl.2026.102061. (<sup>&#8224;</sup> Equal contribution)
 
-2. **E. Loweimi**, H. Daneshvar, S. Loveymi, S. Ouelha, Z. Yue, H. Mozaffar, and S. Luz, “[A Tutorial on Prompt Engineering: From Messy Thoughts to AI Workflows](https://arxiv.org/abs/2609.22249),” Under Review.
+1. K. Fatehi, **E. Loweimi**, S. Ouelha, and N. Cummins, “[Finite Scalar Quantisation for Speech Representations: Dimensionality Matters More Than Codebook Size](https://www.sciencedirect.com/science/article/pii/S0885230825000646),” Computer Speech & Language, (Accepted).
+   
+2. **E. Loweimi**<sup>&#8224;</sup>, Z. Yue<sup>&#8224;</sup>, and Z. Cvetkovic, “[Deep Scattering Spectrum for Dysarthric Speech Recognition, Detection and Classification](https://www.sciencedirect.com/science/article/pii/S0885230826001245?dgcid=coauthor),” Computer Speech & Language, vol. 103, Art. no. 102061, 2027, doi: 10.1016/j.csl.2026.102061. (<sup>&#8224;</sup> Equal contribution)
+
+3. **E. Loweimi**, H. Daneshvar, S. Loveymi, S. Ouelha, Z. Yue, H. Mozaffar, and S. Luz, “[A Tutorial on Prompt Engineering: From Messy Thoughts to AI Workflows](https://arxiv.org/abs/2609.22249),” Under Review.
 
 4. Z. Yue, **E. Loweimi**, Z. Cvetkovic, J. Barker, and H. Christensen, “[Raw Acoustic-articulatory Multimodal Dysarthric Speech Recognition](https://www.sciencedirect.com/science/article/pii/S0885230825000646),” Computer Speech & Language, vol. 95, p. 101839, 2026, doi: 10.1016/j.csl.2025.101839
   
